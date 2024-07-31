@@ -1,0 +1,21 @@
+{
+    "max_n_calls": 5000,
+    "done_calls": 1570,
+    "first_call_at": "2024-07-27",
+    "last_call_at": "2024-07-29",
+    "search": {
+        "n_elements": 27,
+        "last_starting_at": 0,
+        "last_stopping_at": 27
+    },
+    "details": {
+        "n_elements": 270,
+        "last_starting_at": 0,
+        "last_stopping_at": 270
+    },
+    "reviews": {
+        "n_elements": 255,
+        "last_starting_at": 0,
+        "last_stopping_at": 270
+    }
+}

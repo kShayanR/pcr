@@ -1,0 +1,2702 @@
+[
+    {
+        "location_id": "1456254",
+        "name": "Conrad Dubai",
+        "address_obj": {
+            "city": "Dubai",
+            "state": "Emirate of Dubai",
+            "country": "United Arab Emirates",
+            "address_string": "Sheikh Zayed Road, Dubai 115143 United Arab Emirates"
+        }
+    },
+    {
+        "location_id": "20317535",
+        "name": "Hotel Riu Dubai",
+        "address_obj": {
+            "city": "Dubai",
+            "state": "Emirate of Dubai",
+            "country": "United Arab Emirates",
+            "address_string": "Dubai 17777 United Arab Emirates"
+        }
+    },
+    {
+        "location_id": "302098",
+        "name": "Shangri-La Dubai",
+        "address_obj": {
+            "city": "Dubai",
+            "state": "Emirate of Dubai",
+            "country": "United Arab Emirates",
+            "address_string": "Sheikh Zayed Road Near Financial Metro Station, Dubai United Arab Emirates"
+        }
+    },
+    {
+        "location_id": "656624",
+        "name": "Raffles Dubai",
+        "address_obj": {
+            "city": "Dubai",
+            "state": "Emirate of Dubai",
+            "country": "United Arab Emirates",
+            "address_string": "Sheikh Rashid Road, Dubai 121800 United Arab Emirates"
+        }
+    },
+    {
+        "location_id": "20059330",
+        "name": "ME Dubai",
+        "address_obj": {
+            "city": "Dubai",
+            "state": "Emirate of Dubai",
+            "country": "United Arab Emirates",
+            "address_string": "Al Amal Street The Opus by Omniyat, Business Bay, Dubai 333371 United Arab Emirates"
+        }
+    },
+    {
+        "location_id": "7768334",
+        "name": "Palazzo Versace Dubai",
+        "address_obj": {
+            "city": "Dubai",
+            "state": "Emirate of Dubai",
+            "country": "United Arab Emirates",
+            "address_string": "Al Jaddaf Jaddaf Waterfront, Dubai United Arab Emirates"
+        }
+    },
+    {
+        "location_id": "15016790",
+        "name": "W Dubai - The Palm",
+        "address_obj": {
+            "city": "Dubai",
+            "state": "Emirate of Dubai",
+            "country": "United Arab Emirates",
+            "address_string": "West Crescent Palm Jumeirah, Dubai United Arab Emirates"
+        }
+    },
+    {
+        "location_id": "7309237",
+        "name": "Taj Dubai",
+        "address_obj": {
+            "city": "Dubai",
+            "state": "Emirate of Dubai",
+            "country": "United Arab Emirates",
+            "address_string": "Burj Khalifa Street Business Bay, Dubai United Arab Emirates"
+        }
+    },
+    {
+        "location_id": "12349800",
+        "name": "Rixos Premium Dubai JBR",
+        "address_obj": {
+            "city": "Dubai",
+            "state": "Emirate of Dubai",
+            "country": "United Arab Emirates",
+            "address_string": "Al Mamsha Street The Walk Jbr Jumeirah Beach Residence, Dubai 643660 United Arab Emirates"
+        }
+    },
+    {
+        "location_id": "21321279",
+        "name": "Sofitel Dubai the Obelisk",
+        "address_obj": {
+            "city": "Dubai",
+            "state": "Emirate of Dubai",
+            "country": "United Arab Emirates",
+            "address_string": "Wafi City - Sheikh Rashid Road Umm Hurair 2, Dubai 30904 United Arab Emirates"
+        }
+    },
+    {
+        "location_id": "2154485",
+        "name": "Conrad Abu Dhabi Etihad Towers",
+        "address_obj": {
+            "city": "Abu Dhabi",
+            "state": "Emirate of Abu Dhabi",
+            "country": "United Arab Emirates",
+            "address_string": "Corniche W St, Abu Dhabi United Arab Emirates"
+        }
+    },
+    {
+        "location_id": "3528575",
+        "name": "Rosewood Abu Dhabi",
+        "address_obj": {
+            "city": "Abu Dhabi",
+            "state": "Emirate of Abu Dhabi",
+            "country": "United Arab Emirates",
+            "address_string": "Al Maryah Island, Abu Dhabi United Arab Emirates"
+        }
+    },
+    {
+        "location_id": "15215098",
+        "name": "Rixos Marina Abu Dhabi",
+        "address_obj": {
+            "city": "Abu Dhabi",
+            "state": "Emirate of Abu Dhabi",
+            "country": "United Arab Emirates",
+            "address_string": "Marina Mall Ring Road Marina City, Abu Dhabi 61060 United Arab Emirates"
+        }
+    },
+    {
+        "location_id": "23039049",
+        "name": "Hilton Abu Dhabi Yas Island",
+        "address_obj": {
+            "city": "Abu Dhabi",
+            "state": "Emirate of Abu Dhabi",
+            "country": "United Arab Emirates",
+            "address_string": "Yas Bay, Abu Dhabi 144876 United Arab Emirates"
+        }
+    },
+    {
+        "location_id": "2049006",
+        "name": "Sofitel Abu Dhabi Corniche",
+        "address_obj": {
+            "city": "Abu Dhabi",
+            "state": "Emirate of Abu Dhabi",
+            "country": "United Arab Emirates",
+            "address_string": "Corniche Road E Capital Plaza Complex, Abu Dhabi United Arab Emirates"
+        }
+    },
+    {
+        "location_id": "3533740",
+        "name": "The Ritz-Carlton Abu Dhabi, Grand Canal",
+        "address_obj": {
+            "city": "Abu Dhabi",
+            "state": "Emirate of Abu Dhabi",
+            "country": "United Arab Emirates",
+            "address_string": "Al Maqta Area, Abu Dhabi United Arab Emirates"
+        }
+    },
+    {
+        "location_id": "3530410",
+        "name": "Dusit Thani Abu Dhabi",
+        "address_obj": {
+            "city": "Abu Dhabi",
+            "state": "Emirate of Abu Dhabi",
+            "country": "United Arab Emirates",
+            "address_string": "925 Sultan Bin Zayed The First Street, Abu Dhabi United Arab Emirates"
+        }
+    },
+    {
+        "location_id": "2345732",
+        "name": "Park Hyatt Abu Dhabi Hotel and Villas",
+        "address_obj": {
+            "city": "Abu Dhabi",
+            "state": "Emirate of Abu Dhabi",
+            "country": "United Arab Emirates",
+            "address_string": "Saadiyat Island, Abu Dhabi 52007 United Arab Emirates"
+        }
+    },
+    {
+        "location_id": "23696373",
+        "name": "The WB Abu Dhabi Curio Collection",
+        "address_obj": {
+            "city": "Abu Dhabi",
+            "state": "Emirate of Abu Dhabi",
+            "country": "United Arab Emirates",
+            "address_string": "Abu Dhabi United Arab Emirates"
+        }
+    },
+    {
+        "location_id": "304479",
+        "name": "Sheraton Abu Dhabi Hotel & Resort",
+        "address_obj": {
+            "city": "Abu Dhabi",
+            "state": "Emirate of Abu Dhabi",
+            "country": "United Arab Emirates",
+            "address_string": "Corniche Road, Abu Dhabi 20000 United Arab Emirates"
+        }
+    },
+    {
+        "location_id": "20251347",
+        "name": "Pullman Sharjah",
+        "address_obj": {
+            "city": "Sharjah",
+            "state": "Emirate of Sharjah",
+            "country": "United Arab Emirates",
+            "address_string": "Al Taawun St, Sharjah 482 United Arab Emirates"
+        }
+    },
+    {
+        "location_id": "16807629",
+        "name": "Novotel Sharjah Expo Center",
+        "address_obj": {
+            "city": "Sharjah",
+            "state": "Emirate of Sharjah",
+            "country": "United Arab Emirates",
+            "address_string": "Al Khan area, Al Taawun St next to Sharjah Expo Centre, Sharjah 72717 United Arab Emirates"
+        }
+    },
+    {
+        "location_id": "2087819",
+        "name": "Centro Sharjah",
+        "address_obj": {
+            "city": "Sharjah",
+            "state": "Emirate of Sharjah",
+            "country": "United Arab Emirates",
+            "address_string": "Al Dhaid Road Adjacent to Sharjah International Airport, Sharjah 3677 United Arab Emirates"
+        }
+    },
+    {
+        "location_id": "8320291",
+        "name": "Sheraton Sharjah Beach Resort & Spa",
+        "address_obj": {
+            "city": "Sharjah",
+            "state": "Emirate of Sharjah",
+            "country": "United Arab Emirates",
+            "address_string": "Al Muntazah Street, Sharjah 79797 United Arab Emirates"
+        }
+    },
+    {
+        "location_id": "15097545",
+        "name": "Four Points by Sheraton Sharjah",
+        "address_obj": {
+            "city": "Sharjah",
+            "state": "Emirate of Sharjah",
+            "country": "United Arab Emirates",
+            "address_string": "King Faisal Street Al Qasimia, Sharjah 61387 United Arab Emirates"
+        }
+    },
+    {
+        "location_id": "25347949",
+        "name": "Corniche Hotel Sharjah",
+        "address_obj": {
+            "city": "Sharjah",
+            "state": "Emirate of Sharjah",
+            "country": "United Arab Emirates",
+            "address_string": "3930 Corniche Rd Al Majaz 3, Sharjah 3930 United Arab Emirates"
+        }
+    },
+    {
+        "location_id": "308242",
+        "name": "Occidental Sharjah Grand",
+        "address_obj": {
+            "city": "Sharjah",
+            "state": "Emirate of Sharjah",
+            "country": "United Arab Emirates",
+            "address_string": "Al Meena Street Al Khalidiah Area, Sharjah 6059 United Arab Emirates"
+        }
+    },
+    {
+        "location_id": "23597540",
+        "name": "DoubleTree by Hilton Sharjah Waterfront Hotel & Residences",
+        "address_obj": {
+            "city": "Sharjah",
+            "state": "Emirate of Sharjah",
+            "country": "United Arab Emirates",
+            "address_string": "Jamal Abdul Nasser Street, Sharjah United Arab Emirates"
+        }
+    },
+    {
+        "location_id": "305323",
+        "name": "Coral Beach Resort Sharjah",
+        "address_obj": {
+            "city": "Sharjah",
+            "state": "Emirate of Sharjah",
+            "country": "United Arab Emirates",
+            "address_string": "Al Muntazah Street, Sharjah 5524 United Arab Emirates"
+        }
+    },
+    {
+        "location_id": "14190460",
+        "name": "Kingfisher Retreat By Sharjah Collection",
+        "address_obj": {
+            "city": "Kalba",
+            "state": "Emirate of Sharjah",
+            "country": "United Arab Emirates",
+            "address_string": "Corniche Road, Kalba United Arab Emirates"
+        }
+    },
+    {
+        "location_id": "302473",
+        "name": "Ajman Hotel",
+        "address_obj": {
+            "city": "Ajman",
+            "state": "Emirate of Ajman",
+            "country": "United Arab Emirates",
+            "address_string": "Sheikh Humaid Bin Rashid Al Nuaimi Street, Ajman 8833 United Arab Emirates"
+        }
+    },
+    {
+        "location_id": "8029122",
+        "name": "Fairmont Ajman",
+        "address_obj": {
+            "city": "Ajman",
+            "state": "Emirate of Ajman",
+            "country": "United Arab Emirates",
+            "address_string": "Sheikh Humaid Bin Rashid Al Nuaimi Street, Ajman 8088 United Arab Emirates"
+        }
+    },
+    {
+        "location_id": "13997497",
+        "name": "Wyndham Garden Ajman Corniche",
+        "address_obj": {
+            "city": "Ajman",
+            "state": "Emirate of Ajman",
+            "country": "United Arab Emirates",
+            "address_string": "Sheik Humaid Bin Rashid Al Nuaimi Street, Ajman 15554 United Arab Emirates"
+        }
+    },
+    {
+        "location_id": "5565303",
+        "name": "Ajman Saray, a Luxury Collection Resort, Ajman",
+        "address_obj": {
+            "city": "Ajman",
+            "state": "Emirate of Ajman",
+            "country": "United Arab Emirates",
+            "address_string": "Sheikh Humaid Bin Rashid Al Nuaimi Street, Ajman United Arab Emirates"
+        }
+    },
+    {
+        "location_id": "3479451",
+        "name": "Bahi Ajman Palace Hotel",
+        "address_obj": {
+            "city": "Ajman",
+            "state": "Emirate of Ajman",
+            "country": "United Arab Emirates",
+            "address_string": "Sheikh Humaid Bin Rashid Al Nuaimi Street, Ajman United Arab Emirates"
+        }
+    },
+    {
+        "location_id": "1230268",
+        "name": "Ramada Hotel & Suites by Wyndham Ajman",
+        "address_obj": {
+            "city": "Ajman",
+            "state": "Emirate of Ajman",
+            "country": "United Arab Emirates",
+            "address_string": "Sheikh Khalifa Bin Zayed Rd, Ajman 31631 United Arab Emirates"
+        }
+    },
+    {
+        "location_id": "12525585",
+        "name": "Radisson Blu Hotel, Ajman",
+        "address_obj": {
+            "city": "Ajman",
+            "state": "Emirate of Ajman",
+            "country": "United Arab Emirates",
+            "address_string": "Al Ittihad Street E11, Ajman United Arab Emirates"
+        }
+    },
+    {
+        "location_id": "3836170",
+        "name": "Ramada by Wyndham Beach Hotel Ajman",
+        "address_obj": {
+            "city": "Ajman",
+            "state": "Emirate of Ajman",
+            "country": "United Arab Emirates",
+            "address_string": "Sh. Humaid Bin Rashid Al Nuaimi Street, Ajman 00000 United Arab Emirates"
+        }
+    },
+    {
+        "location_id": "581837",
+        "name": "Ajman Beach Hotel",
+        "address_obj": {
+            "city": "Ajman",
+            "state": "Emirate of Ajman",
+            "country": "United Arab Emirates",
+            "address_string": "Sheikh Humaid Bin Rashid Al Nuaimi Street, Ajman United Arab Emirates"
+        }
+    },
+    {
+        "location_id": "10166101",
+        "name": "Alain Hotel Apartments Ajman",
+        "address_obj": {
+            "city": "Ajman",
+            "state": "Emirate of Ajman",
+            "country": "United Arab Emirates",
+            "address_string": "Al Ettihad Street Near GMC Hospital Behind Adnoc Petrol Station, Ajman 7565 United Arab Emirates"
+        }
+    },
+    {
+        "location_id": "23157607",
+        "name": "Vida Beach Resort Umm Al Quwain",
+        "address_obj": {
+            "city": "Umm Al Quwain",
+            "state": "Emirate of Umm Al Quwain",
+            "country": "United Arab Emirates",
+            "address_string": "Al Raudah Al Khor 1, Umm Al Quwain 4100 United Arab Emirates"
+        }
+    },
+    {
+        "location_id": "311063",
+        "name": "Umm Al Quwain Beach Hotel",
+        "address_obj": {
+            "city": "Umm Al Quwain",
+            "state": "Emirate of Umm Al Quwain",
+            "country": "United Arab Emirates",
+            "address_string": "Beach road - Sh.saud Bin Rashid Al Mualla St, Umm Al Quwain United Arab Emirates"
+        }
+    },
+    {
+        "location_id": "1223025",
+        "name": "Palma Beach Resort & Spa",
+        "address_obj": {
+            "city": "Umm Al Quwain",
+            "state": "Emirate of Umm Al Quwain",
+            "country": "United Arab Emirates",
+            "address_string": "Sheikh Ahmed Bin Rashid Al Mualla Road Al Khour 1, Umm Al Quwain United Arab Emirates"
+        }
+    },
+    {
+        "location_id": "1222971",
+        "name": "Barracuda Beach Resort",
+        "address_obj": {
+            "city": "Umm Al Quwain",
+            "state": "Emirate of Umm Al Quwain",
+            "country": "United Arab Emirates",
+            "address_string": "Khor Al Baida, Umm Al Quwain 1311 United Arab Emirates"
+        }
+    },
+    {
+        "location_id": "2693478",
+        "name": "Pearl Hotel & Spa",
+        "address_obj": {
+            "city": "Umm Al Quwain",
+            "state": "Emirate of Umm Al Quwain",
+            "country": "United Arab Emirates",
+            "address_string": "Sheikh Ahmed Bin Rashid Al Mualla Road, Umm Al Quwain United Arab Emirates"
+        }
+    },
+    {
+        "location_id": "672053",
+        "name": "Flamingo Beach Resort",
+        "address_obj": {
+            "city": "Umm Al Quwain",
+            "state": "Emirate of Umm Al Quwain",
+            "country": "United Arab Emirates",
+            "address_string": "AlGhub Street, Umm Al Quwain 1129 United Arab Emirates"
+        }
+    },
+    {
+        "location_id": "2626198",
+        "name": "Royal Residence Hotel Apartments",
+        "address_obj": {
+            "city": "Umm Al Quwain",
+            "state": "Emirate of Umm Al Quwain",
+            "country": "United Arab Emirates",
+            "address_string": "King Faisal Rd, Umm Al Quwain United Arab Emirates"
+        }
+    },
+    {
+        "location_id": "2623435",
+        "name": "Hotel Royal Residence",
+        "address_obj": {
+            "city": "Umm Al Quwain",
+            "state": "Emirate of Umm Al Quwain",
+            "country": "United Arab Emirates",
+            "address_string": "Al Ittihad Road Salamah, Umm Al Quwain 3144 United Arab Emirates"
+        }
+    },
+    {
+        "location_id": "1936706",
+        "name": "Makarem Umm Al Qura",
+        "address_obj": {
+            "city": "Mecca",
+            "state": "Makkah Province",
+            "country": "Saudi Arabia",
+            "address_string": "2550 Ajyad St., Mecca 24234 Saudi Arabia"
+        }
+    },
+    {
+        "location_id": "25457982",
+        "name": "Siniya Island Luxurious Camp",
+        "address_obj": {
+            "city": "Umm Al Quwain",
+            "state": "Emirate of Umm Al Quwain",
+            "country": "United Arab Emirates",
+            "address_string": "Al Shuwaib - Umm Al Quwain Road, Umm Al Quwain United Arab Emirates"
+        }
+    },
+    {
+        "location_id": "11979404",
+        "name": "Fairmont Fujairah Beach Resort",
+        "address_obj": {
+            "city": "Dibba Al Fujairah",
+            "state": "Emirate of Fujairah",
+            "country": "United Arab Emirates",
+            "address_string": "Mina Al Fajer, Dibba Al Fujairah 14333 United Arab Emirates"
+        }
+    },
+    {
+        "location_id": "12937843",
+        "name": "InterContinental Fujairah Resort",
+        "address_obj": {
+            "city": "Al Aqah",
+            "state": "Emirate of Fujairah",
+            "country": "United Arab Emirates",
+            "address_string": "Al Aqah Beach Dibba Road, Al Aqah United Arab Emirates"
+        }
+    },
+    {
+        "location_id": "5483220",
+        "name": "Novotel Fujairah",
+        "address_obj": {
+            "city": "Fujairah",
+            "state": "Emirate of Fujairah",
+            "country": "United Arab Emirates",
+            "address_string": "Hamad Bin Abdullah Road, Fujairah United Arab Emirates"
+        }
+    },
+    {
+        "location_id": "6410946",
+        "name": "ibis Fujairah",
+        "address_obj": {
+            "city": "Fujairah",
+            "state": "Emirate of Fujairah",
+            "country": "United Arab Emirates",
+            "address_string": "Hamad Bin Abdullah Rd, Fujairah United Arab Emirates"
+        }
+    },
+    {
+        "location_id": "24139643",
+        "name": "Palace Beach Resort Fujairah",
+        "address_obj": {
+            "city": "Fujairah",
+            "state": "Emirate of Fujairah",
+            "country": "United Arab Emirates",
+            "address_string": "Corniche Road Al Faseel Area, Fujairah United Arab Emirates"
+        }
+    },
+    {
+        "location_id": "23280434",
+        "name": "Address Beach Resort Fujairah",
+        "address_obj": {
+            "city": "Sharm",
+            "state": "Emirate of Fujairah",
+            "country": "United Arab Emirates",
+            "address_string": "Alfujayrat Sharm Building A-2-2, Sharm United Arab Emirates"
+        }
+    },
+    {
+        "location_id": "1836250",
+        "name": "Concorde Hotel Fujairah",
+        "address_obj": {
+            "city": "Fujairah",
+            "state": "Emirate of Fujairah",
+            "country": "United Arab Emirates",
+            "address_string": "Sheikh Hamad Bin Abdullah Al Sharqi St Fujairah Town Center, Fujairah 3588 United Arab Emirates"
+        }
+    },
+    {
+        "location_id": "7893707",
+        "name": "Royal M Hotel Fujairah",
+        "address_obj": {
+            "city": "Fujairah",
+            "state": "Emirate of Fujairah",
+            "country": "United Arab Emirates",
+            "address_string": "Hamad Bin Abdullah Rd Fujairah Mall, Fujairah 9100 United Arab Emirates"
+        }
+    },
+    {
+        "location_id": "12638473",
+        "name": "V Hotel Fujairah",
+        "address_obj": {
+            "city": "Fujairah",
+            "state": "Emirate of Fujairah",
+            "country": "United Arab Emirates",
+            "address_string": "Al Faseel Road, Fujairah 7764 United Arab Emirates"
+        }
+    },
+    {
+        "location_id": "25165673",
+        "name": "DoubleTree by Hilton Fujairah City",
+        "address_obj": {
+            "city": "Fujairah",
+            "state": "Emirate of Fujairah",
+            "country": "United Arab Emirates",
+            "address_string": "Al Maktoum Rd Al Taif Business Ctr, Fujairah United Arab Emirates"
+        }
+    },
+    {
+        "location_id": "668810",
+        "name": "Rixos Al Mairid Ras Al Khaimah Resort",
+        "address_obj": {
+            "city": "Ras Al Khaimah",
+            "state": "Emirate of Ras Al Khaimah",
+            "country": "United Arab Emirates",
+            "address_string": "Al Mareed Street, Ras Al Khaimah 122998 United Arab Emirates"
+        }
+    },
+    {
+        "location_id": "15124438",
+        "name": "Citymax Hotel Ras Al Khaimah",
+        "address_obj": {
+            "city": "Ras Al Khaimah",
+            "state": "Emirate of Ras Al Khaimah",
+            "country": "United Arab Emirates",
+            "address_string": "Bin Daher Street Al Nakheel Area, Ras Al Khaimah United Arab Emirates"
+        }
+    },
+    {
+        "location_id": "23785372",
+        "name": "Radisson Resort Ras Al Khaimah Marjan Island",
+        "address_obj": {
+            "city": "",
+            "state": "Emirate of Ras Al Khaimah",
+            "country": "United Arab Emirates",
+            "address_string": "Ug 05e, AC01 Al Hamra Industrial Zone-FZ, 103945 United Arab Emirates"
+        }
+    },
+    {
+        "location_id": "23761189",
+        "name": "Intercontinental Ras Al Khaimah Resort And Spa, An Ihg Hotel",
+        "address_obj": {
+            "city": "Al Riffa",
+            "state": "Emirate of Ras Al Khaimah",
+            "country": "United Arab Emirates",
+            "address_string": "Al Rafaa Mina al Arab, Al Riffa, Ras Al Khaimah United Arab Emirates"
+        }
+    },
+    {
+        "location_id": "12182057",
+        "name": "Hilton Garden Inn Ras Al Khaimah",
+        "address_obj": {
+            "city": "Ras Al Khaimah",
+            "state": "Emirate of Ras Al Khaimah",
+            "country": "United Arab Emirates",
+            "address_string": "Bin Daher Street, Ras Al Khaimah 11133 United Arab Emirates"
+        }
+    },
+    {
+        "location_id": "1995299",
+        "name": "Doubletree By Hilton Ras Al Khaimah",
+        "address_obj": {
+            "city": "Ras Al Khaimah",
+            "state": "Emirate of Ras Al Khaimah",
+            "country": "United Arab Emirates",
+            "address_string": "Al Jazah Road, Ras Al Khaimah United Arab Emirates"
+        }
+    },
+    {
+        "location_id": "4092412",
+        "name": "Waldorf Astoria Ras Al Khaimah",
+        "address_obj": {
+            "city": "Ras Al Khaimah",
+            "state": "Emirate of Ras Al Khaimah",
+            "country": "United Arab Emirates",
+            "address_string": "Vienna Street Al Hamra Village, Ras Al Khaimah United Arab Emirates"
+        }
+    },
+    {
+        "location_id": "27100792",
+        "name": "Anantara Mina Al Arab Ras Al Khaimah Resort",
+        "address_obj": {
+            "city": "Al Riffa",
+            "state": "Emirate of Ras Al Khaimah",
+            "country": "United Arab Emirates",
+            "address_string": "Al Huwailat Street Mina Al Arab, Al Riffa, Ras Al Khaimah United Arab Emirates"
+        }
+    },
+    {
+        "location_id": "21144688",
+        "name": "Action Hotel Ras Al Khaimah",
+        "address_obj": {
+            "city": "Ras Al Khaimah",
+            "state": "Emirate of Ras Al Khaimah",
+            "country": "United Arab Emirates",
+            "address_string": "Ahmed Bin Masjid Road, Ras Al Khaimah 96724 United Arab Emirates"
+        }
+    },
+    {
+        "location_id": "582692",
+        "name": "BM Beach Resort",
+        "address_obj": {
+            "city": "Ras Al Khaimah",
+            "state": "Emirate of Ras Al Khaimah",
+            "country": "United Arab Emirates",
+            "address_string": "Al Jazeera Road, Ras Al Khaimah 3133 United Arab Emirates"
+        }
+    },
+    {
+        "location_id": "1026211",
+        "name": "W Doha",
+        "address_obj": {
+            "city": "Doha",
+            "state": "",
+            "country": "Qatar",
+            "address_string": "Street 831 West Bay, Zone 61, Building 262, Doha 19573 Qatar"
+        }
+    },
+    {
+        "location_id": "2216044",
+        "name": "Hilton Doha",
+        "address_obj": {
+            "city": "Doha",
+            "state": "",
+            "country": "Qatar",
+            "address_string": "Diplomatic District West Bay, Doha 24572 Qatar"
+        }
+    },
+    {
+        "location_id": "12948576",
+        "name": "Mondrian Doha",
+        "address_obj": {
+            "city": "Doha",
+            "state": "",
+            "country": "Qatar",
+            "address_string": "West Bay Lagoon, Doha Qatar"
+        }
+    },
+    {
+        "location_id": "2527417",
+        "name": "The St. Regis Doha",
+        "address_obj": {
+            "city": "Doha",
+            "state": "",
+            "country": "Qatar",
+            "address_string": "Doha West Bay, Doha 14435 Qatar"
+        }
+    },
+    {
+        "location_id": "306474",
+        "name": "Radisson Blu Hotel, Doha",
+        "address_obj": {
+            "city": "Doha",
+            "state": "",
+            "country": "Qatar",
+            "address_string": "Salwa Road, Intersection Of C Ring Road Bin Mahmoud Area, Doha 1768 Qatar"
+        }
+    },
+    {
+        "location_id": "302209",
+        "name": "The Ritz-Carlton, Doha",
+        "address_obj": {
+            "city": "Doha",
+            "state": "",
+            "country": "Qatar",
+            "address_string": "Doha 23400 Qatar"
+        }
+    },
+    {
+        "location_id": "301863",
+        "name": "Sheraton Grand Doha Resort & Convention Hotel",
+        "address_obj": {
+            "city": "Doha",
+            "state": "",
+            "country": "Qatar",
+            "address_string": "Al Corniche Street, Doha 6000 Qatar"
+        }
+    },
+    {
+        "location_id": "25150843",
+        "name": "Fairmont Doha",
+        "address_obj": {
+            "city": "Lusail",
+            "state": "",
+            "country": "Qatar",
+            "address_string": "6th Street Lusail Marina District, Lusail 4747 Qatar"
+        }
+    },
+    {
+        "location_id": "14211795",
+        "name": "Mandarin Oriental, Doha",
+        "address_obj": {
+            "city": "Doha",
+            "state": "",
+            "country": "Qatar",
+            "address_string": "Barahat Msheireb Street, Msheireb Downtown Msheireb Downtown, Doha 23643 Qatar"
+        }
+    },
+    {
+        "location_id": "299806",
+        "name": "Rixos Gulf Hotel Doha",
+        "address_obj": {
+            "city": "Doha",
+            "state": "",
+            "country": "Qatar",
+            "address_string": "Ras Abou Aboud Street Building 2, Doha Qatar"
+        }
+    },
+    {
+        "location_id": "21792606",
+        "name": "Hilton Salwa Beach Resort & Villas",
+        "address_obj": {
+            "city": "Abu Samra",
+            "state": "",
+            "country": "Qatar",
+            "address_string": "Salwa Road Exit 86, Abu Samra Qatar"
+        }
+    },
+    {
+        "location_id": "1200087",
+        "name": "Douar Samra",
+        "address_obj": {
+            "city": "Imlil",
+            "state": "",
+            "country": "Morocco",
+            "address_string": "Tamatert, Imlil 22003 Morocco"
+        }
+    },
+    {
+        "location_id": "10595096",
+        "name": "Samra Bay Resort Apartment",
+        "address_obj": {
+            "city": "Hurghada",
+            "state": "",
+            "country": "Egypt",
+            "address_string": "EL Mamsha Road, Hurghada 84512 Egypt"
+        }
+    },
+    {
+        "location_id": "3528575",
+        "name": "Rosewood Abu Dhabi",
+        "address_obj": {
+            "city": "Abu Dhabi",
+            "state": "Emirate of Abu Dhabi",
+            "country": "United Arab Emirates",
+            "address_string": "Al Maryah Island, Abu Dhabi United Arab Emirates"
+        }
+    },
+    {
+        "location_id": "15215098",
+        "name": "Rixos Marina Abu Dhabi",
+        "address_obj": {
+            "city": "Abu Dhabi",
+            "state": "Emirate of Abu Dhabi",
+            "country": "United Arab Emirates",
+            "address_string": "Marina Mall Ring Road Marina City, Abu Dhabi 61060 United Arab Emirates"
+        }
+    },
+    {
+        "location_id": "736134",
+        "name": "Sterling Mount Abu",
+        "address_obj": {
+            "city": "Mount Abu",
+            "state": "Rajasthan",
+            "country": "India",
+            "address_string": "Neel Kanth Road Aranya Village, Sterling, Mount Abu 307501 India"
+        }
+    },
+    {
+        "location_id": "2154485",
+        "name": "Conrad Abu Dhabi Etihad Towers",
+        "address_obj": {
+            "city": "Abu Dhabi",
+            "state": "Emirate of Abu Dhabi",
+            "country": "United Arab Emirates",
+            "address_string": "Corniche W St, Abu Dhabi United Arab Emirates"
+        }
+    },
+    {
+        "location_id": "23039049",
+        "name": "Hilton Abu Dhabi Yas Island",
+        "address_obj": {
+            "city": "Abu Dhabi",
+            "state": "Emirate of Abu Dhabi",
+            "country": "United Arab Emirates",
+            "address_string": "Yas Bay, Abu Dhabi 144876 United Arab Emirates"
+        }
+    },
+    {
+        "location_id": "3533740",
+        "name": "The Ritz-Carlton Abu Dhabi, Grand Canal",
+        "address_obj": {
+            "city": "Abu Dhabi",
+            "state": "Emirate of Abu Dhabi",
+            "country": "United Arab Emirates",
+            "address_string": "Al Maqta Area, Abu Dhabi United Arab Emirates"
+        }
+    },
+    {
+        "location_id": "2049006",
+        "name": "Sofitel Abu Dhabi Corniche",
+        "address_obj": {
+            "city": "Abu Dhabi",
+            "state": "Emirate of Abu Dhabi",
+            "country": "United Arab Emirates",
+            "address_string": "Corniche Road E Capital Plaza Complex, Abu Dhabi United Arab Emirates"
+        }
+    },
+    {
+        "location_id": "24149276",
+        "name": "Retaj Inn Al Wakrah",
+        "address_obj": {
+            "city": "Al Wakra",
+            "state": "",
+            "country": "Qatar",
+            "address_string": "Messaieed Road 48, Al Wakra Qatar"
+        }
+    },
+    {
+        "location_id": "14934472",
+        "name": "Souq Al Wakra Hotel Qatar By Tivoli",
+        "address_obj": {
+            "city": "Al Wakrah",
+            "state": "",
+            "country": "Qatar",
+            "address_string": "Street 891 Al Loulou, Al Wakrah Qatar"
+        }
+    },
+    {
+        "location_id": "13345296",
+        "name": "Time Rako Hotel",
+        "address_obj": {
+            "city": "Al Wakrah",
+            "state": "",
+            "country": "Qatar",
+            "address_string": "Messaieed Road, Al Wakrah Qatar"
+        }
+    },
+    {
+        "location_id": "23379734",
+        "name": "Arabian Adventures Camp",
+        "address_obj": {
+            "city": "Al Wakrah",
+            "state": "",
+            "country": "Qatar",
+            "address_string": "Khor Al Udaid, Al Wakrah Qatar"
+        }
+    },
+    {
+        "location_id": "505500",
+        "name": "Anwar Al Madinah Movenpick Hotel",
+        "address_obj": {
+            "city": "Medina",
+            "state": "Al Madinah Province",
+            "country": "Saudi Arabia",
+            "address_string": "Central Zone, Medina 42311 Saudi Arabia"
+        }
+    },
+    {
+        "location_id": "302117",
+        "name": "Shangri-La Barr Al Jissah, Muscat",
+        "address_obj": {
+            "city": "Bandar Jissah",
+            "state": "",
+            "country": "Oman",
+            "address_string": "Al Jissah St, Bandar Jissah 100 Oman"
+        }
+    },
+    {
+        "location_id": "4874757",
+        "name": "Rixos Bab Al Bahr",
+        "address_obj": {
+            "city": "Ras Al Khaimah",
+            "state": "Emirate of Ras Al Khaimah",
+            "country": "United Arab Emirates",
+            "address_string": "Ras Al Khaimah United Arab Emirates"
+        }
+    },
+    {
+        "location_id": "1160365",
+        "name": "Al Haram Hotel - Al Rawda",
+        "address_obj": {
+            "city": "Medina",
+            "state": "Al Madinah Province",
+            "country": "Saudi Arabia",
+            "address_string": "Al Saha Street central Al Madina, Medina 42311 Saudi Arabia"
+        }
+    },
+    {
+        "location_id": "299192",
+        "name": "Dar Al Taqwa Hotel",
+        "address_obj": {
+            "city": "Medina",
+            "state": "Al Madinah Province",
+            "country": "Saudi Arabia",
+            "address_string": "off Al Sitteen Street Between Masjid An Nabawi & Al Haram, Medina 42311 Saudi Arabia"
+        }
+    },
+    {
+        "location_id": "1216393",
+        "name": "Shangri-La Al Husn, Muscat",
+        "address_obj": {
+            "city": "Bandar Jissah",
+            "state": "",
+            "country": "Oman",
+            "address_string": "Bandar Jissah 100 Oman"
+        }
+    },
+    {
+        "location_id": "26350806",
+        "name": "Al Khor Camp - Glamping Resort",
+        "address_obj": {
+            "city": "Al Khor",
+            "state": "",
+            "country": "Qatar",
+            "address_string": "Street 1000 Zone 74 Al Ferkiah Beach, Al Khor Qatar"
+        }
+    },
+    {
+        "location_id": "25192853",
+        "name": "Tio Sea Resort",
+        "address_obj": {
+            "city": "Al Khor",
+            "state": "",
+            "country": "Qatar",
+            "address_string": "Al Khawr Town Rd Zone 74 Building 97, Al Khor 60002 Qatar"
+        }
+    },
+    {
+        "location_id": "4701575",
+        "name": "Khor's Apartments - Greenhill Resort",
+        "address_obj": {
+            "city": "Tanah Rata",
+            "state": "Pahang",
+            "country": "Malaysia",
+            "address_string": "Jalan Gereja, Tanah Rata 39000 Malaysia"
+        }
+    },
+    {
+        "location_id": "17643622",
+        "name": "Khour Bay Residency",
+        "address_obj": {
+            "city": "Al Khor",
+            "state": "",
+            "country": "Qatar",
+            "address_string": "Safa Al Tawg building No 22, Al Khor Qatar"
+        }
+    },
+    {
+        "location_id": "505500",
+        "name": "Anwar Al Madinah Movenpick Hotel",
+        "address_obj": {
+            "city": "Medina",
+            "state": "Al Madinah Province",
+            "country": "Saudi Arabia",
+            "address_string": "Central Zone, Medina 42311 Saudi Arabia"
+        }
+    },
+    {
+        "location_id": "302117",
+        "name": "Shangri-La Barr Al Jissah, Muscat",
+        "address_obj": {
+            "city": "Bandar Jissah",
+            "state": "",
+            "country": "Oman",
+            "address_string": "Al Jissah St, Bandar Jissah 100 Oman"
+        }
+    },
+    {
+        "location_id": "4874757",
+        "name": "Rixos Bab Al Bahr",
+        "address_obj": {
+            "city": "Ras Al Khaimah",
+            "state": "Emirate of Ras Al Khaimah",
+            "country": "United Arab Emirates",
+            "address_string": "Ras Al Khaimah United Arab Emirates"
+        }
+    },
+    {
+        "location_id": "1160365",
+        "name": "Al Haram Hotel - Al Rawda",
+        "address_obj": {
+            "city": "Medina",
+            "state": "Al Madinah Province",
+            "country": "Saudi Arabia",
+            "address_string": "Al Saha Street central Al Madina, Medina 42311 Saudi Arabia"
+        }
+    },
+    {
+        "location_id": "299192",
+        "name": "Dar Al Taqwa Hotel",
+        "address_obj": {
+            "city": "Medina",
+            "state": "Al Madinah Province",
+            "country": "Saudi Arabia",
+            "address_string": "off Al Sitteen Street Between Masjid An Nabawi & Al Haram, Medina 42311 Saudi Arabia"
+        }
+    },
+    {
+        "location_id": "1216393",
+        "name": "Shangri-La Al Husn, Muscat",
+        "address_obj": {
+            "city": "Bandar Jissah",
+            "state": "",
+            "country": "Oman",
+            "address_string": "Bandar Jissah 100 Oman"
+        }
+    },
+    {
+        "location_id": "15756839",
+        "name": "Hilton Riyadh Hotel & Residences",
+        "address_obj": {
+            "city": "Riyadh",
+            "state": "Riyadh Province",
+            "country": "Saudi Arabia",
+            "address_string": "6623 Al Shohadaa Eastern Ring Road, Riyadh 13241\u20132892 Saudi Arabia"
+        }
+    },
+    {
+        "location_id": "15215188",
+        "name": "Fairmont Riyadh",
+        "address_obj": {
+            "city": "Riyadh",
+            "state": "Riyadh Province",
+            "country": "Saudi Arabia",
+            "address_string": "Business Gate Qurtubah Area Airport Road, Riyadh 11552 Saudi Arabia"
+        }
+    },
+    {
+        "location_id": "11667441",
+        "name": "Hyatt Regency Riyadh Olaya",
+        "address_obj": {
+            "city": "Riyadh",
+            "state": "Riyadh Province",
+            "country": "Saudi Arabia",
+            "address_string": "Olaya Street, Riyadh 11433 Saudi Arabia"
+        }
+    },
+    {
+        "location_id": "2366709",
+        "name": "The Ritz-Carlton Riyadh",
+        "address_obj": {
+            "city": "Riyadh",
+            "state": "Riyadh Province",
+            "country": "Saudi Arabia",
+            "address_string": "AlHada Area, Mekkah Road Mekkah Road, Riyadh 11493 Saudi Arabia"
+        }
+    },
+    {
+        "location_id": "15239002",
+        "name": "Shaza Riyadh",
+        "address_obj": {
+            "city": "Riyadh",
+            "state": "Riyadh Province",
+            "country": "Saudi Arabia",
+            "address_string": "7025 Eastern Ring Road, Riyadh 13213 Saudi Arabia"
+        }
+    },
+    {
+        "location_id": "6164000",
+        "name": "JW Marriott Hotel Riyadh",
+        "address_obj": {
+            "city": "Riyadh",
+            "state": "Riyadh Province",
+            "country": "Saudi Arabia",
+            "address_string": "King Fahad Road Sahafah District, Riyadh 13315-2174 Saudi Arabia"
+        }
+    },
+    {
+        "location_id": "3514706",
+        "name": "ibis Riyadh Olaya Street",
+        "address_obj": {
+            "city": "Riyadh",
+            "state": "Riyadh Province",
+            "country": "Saudi Arabia",
+            "address_string": "Al Olaya Street Opposite to the Kingdom Tower, Riyadh 11565 Saudi Arabia"
+        }
+    },
+    {
+        "location_id": "14182161",
+        "name": "Hyatt Place Riyadh Al Sulaimania",
+        "address_obj": {
+            "city": "Riyadh",
+            "state": "Riyadh Province",
+            "country": "Saudi Arabia",
+            "address_string": "Turki Ibn Abdullah Al Saud Rd Al Sulaimania, Riyadh 12234 Saudi Arabia"
+        }
+    },
+    {
+        "location_id": "15242515",
+        "name": "Nofa Riyadh, A Radisson Collection Resort",
+        "address_obj": {
+            "city": "Riyadh",
+            "state": "Riyadh Province",
+            "country": "Saudi Arabia",
+            "address_string": "Riyadh Makkah Highway Exit 857, Riyadh Saudi Arabia"
+        }
+    },
+    {
+        "location_id": "299191",
+        "name": "InterContinental Riyadh, an IHG Hotel",
+        "address_obj": {
+            "city": "Riyadh",
+            "state": "Riyadh Province",
+            "country": "Saudi Arabia",
+            "address_string": "King Saud Road, Riyadh 11481 Saudi Arabia"
+        }
+    },
+    {
+        "location_id": "302637",
+        "name": "Mecca Hotel",
+        "address_obj": {
+            "city": "Alexandria",
+            "state": "Alexandria Governorate",
+            "country": "Egypt",
+            "address_string": "44 El Gueish Road, Alexandria 21599 Egypt"
+        }
+    },
+    {
+        "location_id": "125840",
+        "name": "Mecca Motel",
+        "address_obj": {
+            "city": "Colorado Springs",
+            "state": "Colorado",
+            "country": "United States",
+            "address_string": "3518 W Colorado Ave, Colorado Springs, CO 80904-1999"
+        }
+    },
+    {
+        "location_id": "5888196",
+        "name": "Meral Hotel Mecca",
+        "address_obj": {
+            "city": "Mecca",
+            "state": "Makkah Province",
+            "country": "Saudi Arabia",
+            "address_string": "Abdullah Al Khyat Street, Mecca 21955 Saudi Arabia"
+        }
+    },
+    {
+        "location_id": "601692",
+        "name": "Mecca Hotel",
+        "address_obj": {
+            "city": "Sandusky",
+            "state": "Ohio",
+            "country": "United States",
+            "address_string": "2227 Cleveland Rd, Sandusky, OH 44870-4475"
+        }
+    },
+    {
+        "location_id": "6409030",
+        "name": "Salam El-Dar Mecca Hotel",
+        "address_obj": {
+            "city": "Mecca",
+            "state": "Makkah Province",
+            "country": "Saudi Arabia",
+            "address_string": "3rd Ring Road Kudai District, Mecca 21955 Saudi Arabia"
+        }
+    },
+    {
+        "location_id": "23821433",
+        "name": "Mecca Camp Resort",
+        "address_obj": {
+            "city": "Tellico Plains",
+            "state": "Tennessee",
+            "country": "United States",
+            "address_string": "1301 Mecca Pike, Tellico Plains, TN 37385-5634"
+        }
+    },
+    {
+        "location_id": "12912345",
+        "name": "Orchid Saray Hotel Mecca",
+        "address_obj": {
+            "city": "Mecca",
+            "state": "Makkah Province",
+            "country": "Saudi Arabia",
+            "address_string": "Al Hujoon Street 3669, Mecca 24231 Saudi Arabia"
+        }
+    },
+    {
+        "location_id": "26661346",
+        "name": "Mecca",
+        "address_obj": {
+            "city": "Puerto Viejo de Talamanca",
+            "state": "Province of Limon",
+            "country": "Costa Rica",
+            "address_string": "75 Meters South of San Francisco Hardware, Puerto Viejo de Talamanca Costa Rica"
+        }
+    },
+    {
+        "location_id": "1174249",
+        "name": "Mecca Beach Front Hotel Patong Phuket",
+        "address_obj": {
+            "city": "Patong",
+            "state": "Phuket",
+            "country": "Thailand",
+            "address_string": "80/19-20 Soi Dr. Wattana Thaweewong Rd, Patong, Kathu, Phuket 83150 Thailand"
+        }
+    },
+    {
+        "location_id": "24229858",
+        "name": "Mecca Hotel Alexandria",
+        "address_obj": {
+            "city": "Alexandria",
+            "state": "Alexandria Governorate",
+            "country": "Egypt",
+            "address_string": "44 El-Gaish Rd, Alexandria 21599 Egypt"
+        }
+    },
+    {
+        "location_id": "4153081",
+        "name": "Medina Palms",
+        "address_obj": {
+            "city": "Watamu",
+            "state": "Coast Province",
+            "country": "Kenya",
+            "address_string": "Turtle Bay Road, Watamu 80202 Kenya"
+        }
+    },
+    {
+        "location_id": "6621142",
+        "name": "TUI BLUE Medina Gardens",
+        "address_obj": {
+            "city": "Marrakech",
+            "state": "",
+            "country": "Morocco",
+            "address_string": "Arset Djnane Lakhdar, Marrakech 40000 Morocco"
+        }
+    },
+    {
+        "location_id": "1941087",
+        "name": "Kenzi Club Agdal Medina",
+        "address_obj": {
+            "city": "Marrakech",
+            "state": "",
+            "country": "Morocco",
+            "address_string": "Blvd Mohammed VI Zone de l'Agdal, Marrakech 40000 Morocco"
+        }
+    },
+    {
+        "location_id": "581392",
+        "name": "Medina Belisaire & Thalasso",
+        "address_obj": {
+            "city": "Yasmine Hammamet",
+            "state": "Nabeul Governorate",
+            "country": "Tunisia",
+            "address_string": "98, C28, Yasmine Hammamet, Hammamet 8050 Tunisia"
+        }
+    },
+    {
+        "location_id": "590302",
+        "name": "Medina Solaria & Thalasso",
+        "address_obj": {
+            "city": "Hammamet",
+            "state": "Nabeul Governorate",
+            "country": "Tunisia",
+            "address_string": "Rue de la Medina Yasmine Hammamet, Hammamet 8050 Tunisia"
+        }
+    },
+    {
+        "location_id": "316718",
+        "name": "Les Jardins de la Medina",
+        "address_obj": {
+            "city": "Marrakech",
+            "state": "",
+            "country": "Morocco",
+            "address_string": "Derb Chtouka, 21, Marrakech 40000 Morocco"
+        }
+    },
+    {
+        "location_id": "301522",
+        "name": "Le Meridien Medina",
+        "address_obj": {
+            "city": "Medina",
+            "state": "Al Madinah Province",
+            "country": "Saudi Arabia",
+            "address_string": "Khaled Bin El Waleed Road, Medina 42351 Saudi Arabia"
+        }
+    },
+    {
+        "location_id": "224430",
+        "name": "Hampton Inn Medina",
+        "address_obj": {
+            "city": "Medina",
+            "state": "Ohio",
+            "country": "United States",
+            "address_string": "3073 Eastpointe Drive, Medina, OH 44256"
+        }
+    },
+    {
+        "location_id": "123426",
+        "name": "Medina Inn",
+        "address_obj": {
+            "city": "Medina",
+            "state": "Minnesota",
+            "country": "United States",
+            "address_string": "400 Highway 55, Medina, MN 55340-9544"
+        }
+    },
+    {
+        "location_id": "301959",
+        "name": "Four Seasons Hotel Casa Medina Bogota",
+        "address_obj": {
+            "city": "Bogota",
+            "state": "",
+            "country": "Colombia",
+            "address_string": "Cra 7 #69a-22, Bogota Colombia"
+        }
+    },
+    {
+        "location_id": "7331990",
+        "name": "Hilton Garden Inn Tabuk",
+        "address_obj": {
+            "city": "Tabouk",
+            "state": "Tabuk Province",
+            "country": "Saudi Arabia",
+            "address_string": "Al Amir Sultan Ibn Abdul Aziz Road, Tabouk 47311 Saudi Arabia"
+        }
+    },
+    {
+        "location_id": "11798118",
+        "name": "Royal Tulip Sharma Resort",
+        "address_obj": {
+            "city": "Tabouk",
+            "state": "Tabuk Province",
+            "country": "Saudi Arabia",
+            "address_string": "Tabouk 71461 Saudi Arabia"
+        }
+    },
+    {
+        "location_id": "8142589",
+        "name": "Holiday Inn Tabuk, an IHG Hotel",
+        "address_obj": {
+            "city": "Tabouk",
+            "state": "Tabuk Province",
+            "country": "Saudi Arabia",
+            "address_string": "Prince Fahd Bin Sultan Street PO Box 901, Tabouk Saudi Arabia"
+        }
+    },
+    {
+        "location_id": "21266270",
+        "name": "Grand Millennium Tabuk",
+        "address_obj": {
+            "city": "Tabouk",
+            "state": "Tabuk Province",
+            "country": "Saudi Arabia",
+            "address_string": "Gate 4 Tabuk University Complex Duba Road, Tabouk 47731 Saudi Arabia"
+        }
+    },
+    {
+        "location_id": "12344498",
+        "name": "Al Eairy Apartments - Tabuk 6",
+        "address_obj": {
+            "city": "Tabouk",
+            "state": "Tabuk Province",
+            "country": "Saudi Arabia",
+            "address_string": "King Khalid Road, Tabouk 47913 Saudi Arabia"
+        }
+    },
+    {
+        "location_id": "12909350",
+        "name": "Swiss In Tabuk",
+        "address_obj": {
+            "city": "Tabouk",
+            "state": "Tabuk Province",
+            "country": "Saudi Arabia",
+            "address_string": "Prince Sultan Bin Abdul Aziz Street, Tabouk 47311 Saudi Arabia"
+        }
+    },
+    {
+        "location_id": "17547867",
+        "name": "Rafahyat Alfakhama Furnished Units",
+        "address_obj": {
+            "city": "Tabouk",
+            "state": "Tabuk Province",
+            "country": "Saudi Arabia",
+            "address_string": "6745 Al Imam Abdullah Ibn Faisal Ibn Turki, Alhudaibah, Tabouk 47914 Saudi Arabia"
+        }
+    },
+    {
+        "location_id": "10033392",
+        "name": "Ertiaad Hotel",
+        "address_obj": {
+            "city": "Tabouk",
+            "state": "Tabuk Province",
+            "country": "Saudi Arabia",
+            "address_string": "Al Hamra District, In Front of Al Raqi Mall, Tabouk 71411 Saudi Arabia"
+        }
+    },
+    {
+        "location_id": "13814679",
+        "name": "Mena Hotel Tabuk",
+        "address_obj": {
+            "city": "Tabouk",
+            "state": "Tabuk Province",
+            "country": "Saudi Arabia",
+            "address_string": "Alaziziyah Aljadidah, Tabouk 47911 Saudi Arabia"
+        }
+    },
+    {
+        "location_id": "21504896",
+        "name": "Ewaa Express Hotel - Tabuk",
+        "address_obj": {
+            "city": "Tabouk",
+            "state": "Tabuk Province",
+            "country": "Saudi Arabia",
+            "address_string": "King Fahd Rd, Tabouk 47914 Saudi Arabia"
+        }
+    },
+    {
+        "location_id": "14166022",
+        "name": "Novotel Jazan Hotel",
+        "address_obj": {
+            "city": "Jazan",
+            "state": "Jizan Province",
+            "country": "Saudi Arabia",
+            "address_string": "King Fahd Bin Abdul Aziz Road South Corniche, Jazan 45142 Saudi Arabia"
+        }
+    },
+    {
+        "location_id": "6209157",
+        "name": "Courtyard by Marriott Jazan",
+        "address_obj": {
+            "city": "Jazan",
+            "state": "Jizan Province",
+            "country": "Saudi Arabia",
+            "address_string": "Al Riyadh Road Next To Rashid Mall, Jazan 45142 Saudi Arabia"
+        }
+    },
+    {
+        "location_id": "7124952",
+        "name": "Holiday Jazan Hotel",
+        "address_obj": {
+            "city": "Jazan",
+            "state": "Jizan Province",
+            "country": "Saudi Arabia",
+            "address_string": "Prince Mohammed Ben Naser Street, Jazan 45142 Saudi Arabia"
+        }
+    },
+    {
+        "location_id": "3256865",
+        "name": "Jazan Inn Hotel",
+        "address_obj": {
+            "city": "Jazan",
+            "state": "Jizan Province",
+            "country": "Saudi Arabia",
+            "address_string": "Sadafa Roundabout, North Corniche, Jazan Saudi Arabia"
+        }
+    },
+    {
+        "location_id": "7315479",
+        "name": "Residence Inn by Marriott Jazan",
+        "address_obj": {
+            "city": "Jazan",
+            "state": "Jizan Province",
+            "country": "Saudi Arabia",
+            "address_string": "Al Riyadh Road Next To Rashid Mall, Jazan 31311 Saudi Arabia"
+        }
+    },
+    {
+        "location_id": "12100783",
+        "name": "Intour Jazan Hotel",
+        "address_obj": {
+            "city": "Jazan",
+            "state": "Jizan Province",
+            "country": "Saudi Arabia",
+            "address_string": "Prince Mohamed Bin Nasser Road, Jazan 45142 Saudi Arabia"
+        }
+    },
+    {
+        "location_id": "23863371",
+        "name": "Grand Plaza Hotel-Jazan",
+        "address_obj": {
+            "city": "Jazan",
+            "state": "Jizan Province",
+            "country": "Saudi Arabia",
+            "address_string": "2773 Corniche Road, Jazan Saudi Arabia"
+        }
+    },
+    {
+        "location_id": "6727260",
+        "name": "Jazan Inn Hotel",
+        "address_obj": {
+            "city": "Jazan",
+            "state": "Jizan Province",
+            "country": "Saudi Arabia",
+            "address_string": "Cornice Rd, Jazan 45142 Saudi Arabia"
+        }
+    },
+    {
+        "location_id": "15583337",
+        "name": "Jazan Heart Hotel",
+        "address_obj": {
+            "city": "Jazan",
+            "state": "Jizan Province",
+            "country": "Saudi Arabia",
+            "address_string": "Airport Road Next to Al Tawheed Bridge, Jazan 45142 Saudi Arabia"
+        }
+    },
+    {
+        "location_id": "23529497",
+        "name": "Rijinsi Jazan",
+        "address_obj": {
+            "city": "Jazan",
+            "state": "Jizan Province",
+            "country": "Saudi Arabia",
+            "address_string": "Tariq Almalik Eabd Aleaziz, Jazan 82721 Saudi Arabia"
+        }
+    },
+    {
+        "location_id": "858419",
+        "name": "Ibis Kuwait Salmiya",
+        "address_obj": {
+            "city": "Kuwait City",
+            "state": "",
+            "country": "Kuwait",
+            "address_string": "Salem Al Mubarak Street Salmiya, Kuwait City 24755 Kuwait"
+        }
+    },
+    {
+        "location_id": "565785",
+        "name": "Holiday Inn Kuwait Salmiya",
+        "address_obj": {
+            "city": "Kuwait City",
+            "state": "",
+            "country": "Kuwait",
+            "address_string": "140 Hamad Al Mubarak Street Gulf Road, Kuwait City 22003 Kuwait"
+        }
+    },
+    {
+        "location_id": "9757953",
+        "name": "Best Western Plus Salmiya",
+        "address_obj": {
+            "city": "Salmiya",
+            "state": "",
+            "country": "Kuwait",
+            "address_string": "Block 9, Sayed Yaseen Street, Bld 37, Salmiya, Hawalli Governorate 556 Kuwait"
+        }
+    },
+    {
+        "location_id": "10661290",
+        "name": "Leaders Plaza Salmiya",
+        "address_obj": {
+            "city": "Salmiya",
+            "state": "",
+            "country": "Kuwait",
+            "address_string": "Block 3, Street 4, Building 16, Salmiya, Hawalli Governorate 83PV J6 Kuwait"
+        }
+    },
+    {
+        "location_id": "673682",
+        "name": "Le Royal Express Salmiya",
+        "address_obj": {
+            "city": "Salmiya",
+            "state": "",
+            "country": "Kuwait",
+            "address_string": "Qatar Street, Salmiya, Hawalli Governorate 15463 Kuwait"
+        }
+    },
+    {
+        "location_id": "12551425",
+        "name": "Continental Suite Salmiya",
+        "address_obj": {
+            "city": "Salmiya",
+            "state": "",
+            "country": "Kuwait",
+            "address_string": "Salmiya Block 10, Street 12 Avenue 2, Building 17 Fifth Ring Road, Salmiya, Hawalli Governorate Kuwait"
+        }
+    },
+    {
+        "location_id": "7374960",
+        "name": "Riad Salmiya Dune",
+        "address_obj": {
+            "city": "Essaouira",
+            "state": "",
+            "country": "Morocco",
+            "address_string": "187 Sigilmasa Borj 1 Derri\u00e8re la grande mosqu\u00e9e du Borj, Essaouira 44000 Morocco"
+        }
+    },
+    {
+        "location_id": "23586889",
+        "name": "Holiday Inn Suites Kuwait Salmiya, an IHG Hotel",
+        "address_obj": {
+            "city": "Salmiya",
+            "state": "",
+            "country": "Kuwait",
+            "address_string": "Arabian Gulf Street Salmiya Block 2, Salmiya, Hawalli Governorate 26980 Kuwait"
+        }
+    },
+    {
+        "location_id": "12899816",
+        "name": "Salmiya International Hotel",
+        "address_obj": {
+            "city": "Salmiya",
+            "state": "",
+            "country": "Kuwait",
+            "address_string": "Al Dimna Street, Salmiya, Hawalli Governorate Kuwait"
+        }
+    },
+    {
+        "location_id": "6827797",
+        "name": "Salmiya Casa Hotel",
+        "address_obj": {
+            "city": "Hawalli",
+            "state": "",
+            "country": "Kuwait",
+            "address_string": "Block 3, Amro Bin Alaas Street, Building 92 Salmiya, Hawalli, Hawalli Governorate 13067 Kuwait"
+        }
+    },
+    {
+        "location_id": "299803",
+        "name": "Courtyard by Marriott Kuwait City",
+        "address_obj": {
+            "city": "Dasman",
+            "state": "",
+            "country": "Kuwait",
+            "address_string": "Al Shuhada Street, Dasman 15463 Kuwait"
+        }
+    },
+    {
+        "location_id": "7183519",
+        "name": "Residence Inn by Marriott Kuwait City",
+        "address_obj": {
+            "city": "Kuwait City",
+            "state": "",
+            "country": "Kuwait",
+            "address_string": "Abdullah Saleh Almulla Street Sharq, Kuwait City 15460 Kuwait"
+        }
+    },
+    {
+        "location_id": "299804",
+        "name": "JW Marriott Hotel Kuwait City",
+        "address_obj": {
+            "city": "Kuwait City",
+            "state": "",
+            "country": "Kuwait",
+            "address_string": "Al Shuhada Street P.O.Box 26302, Kuwait City 13124 Kuwait"
+        }
+    },
+    {
+        "location_id": "301859",
+        "name": "Sheraton Kuwait, A Luxury Collection Hotel, Kuwait City",
+        "address_obj": {
+            "city": "Kuwait City",
+            "state": "",
+            "country": "Kuwait",
+            "address_string": "Fahd Al-Salem Street, Kuwait City 13060 Kuwait"
+        }
+    },
+    {
+        "location_id": "25280224",
+        "name": "Marriott Executive Apartments Kuwait City",
+        "address_obj": {
+            "city": "Kuwait City",
+            "state": "",
+            "country": "Kuwait",
+            "address_string": "Abdel Moneim Riyadh Street, Kuwait City 26302 Kuwait"
+        }
+    },
+    {
+        "location_id": "586695",
+        "name": "Hilton Kuwait Resort",
+        "address_obj": {
+            "city": "Mangaf",
+            "state": "",
+            "country": "Kuwait",
+            "address_string": "Al Salem Al Sabah St, Mangaf, Kuwait City 7887 Kuwait"
+        }
+    },
+    {
+        "location_id": "12059033",
+        "name": "Four Seasons Hotel Kuwait at Burj Alshaya",
+        "address_obj": {
+            "city": "Kuwait City",
+            "state": "",
+            "country": "Kuwait",
+            "address_string": "Al-Soor Street Al Mirqab, Kuwait City Kuwait"
+        }
+    },
+    {
+        "location_id": "13339681",
+        "name": "Grand Majestic Hotel Kuwait",
+        "address_obj": {
+            "city": "Kuwait City",
+            "state": "",
+            "country": "Kuwait",
+            "address_string": "Abdulla Al Mubarak Street Sahoud Tower Mirqab, Kuwait City 13159 Kuwait"
+        }
+    },
+    {
+        "location_id": "13223447",
+        "name": "Ramada Encore by Wyndham Kuwait Downtown",
+        "address_obj": {
+            "city": "Kuwait City",
+            "state": "",
+            "country": "Kuwait",
+            "address_string": "113 Jaber Al Mubarak Street, Kuwait City Kuwait"
+        }
+    },
+    {
+        "location_id": "299155",
+        "name": "Holiday Inn Kuwait Al Thuraya City",
+        "address_obj": {
+            "city": "Farwaniya",
+            "state": "",
+            "country": "Kuwait",
+            "address_string": "Farwaniya, Farwaniya 81006 Kuwait"
+        }
+    },
+    {
+        "location_id": "21792606",
+        "name": "Hilton Salwa Beach Resort & Villas",
+        "address_obj": {
+            "city": "Abu Samra",
+            "state": "",
+            "country": "Qatar",
+            "address_string": "Salwa Road Exit 86, Abu Samra Qatar"
+        }
+    },
+    {
+        "location_id": "14771854",
+        "name": "Retaj Salwa Resort & Spa",
+        "address_obj": {
+            "city": "Doha",
+            "state": "",
+            "country": "Qatar",
+            "address_string": "Salwa Road Exit 29, Doha Qatar"
+        }
+    },
+    {
+        "location_id": "20372730",
+        "name": "DusitD2 Salwa Doha",
+        "address_obj": {
+            "city": "Doha",
+            "state": "",
+            "country": "Qatar",
+            "address_string": "Wadi Al Markh Street Wadi Al Markh Street, Muntazah Area, Doha 6989 Qatar"
+        }
+    },
+    {
+        "location_id": "6162102",
+        "name": "Sahari Palace - Salwa",
+        "address_obj": {
+            "city": "Salwa",
+            "state": "Eastern Province",
+            "country": "Saudi Arabia",
+            "address_string": "Salwa 36623 Saudi Arabia"
+        }
+    },
+    {
+        "location_id": "2614432",
+        "name": "Salwa Furnished Suites",
+        "address_obj": {
+            "city": "Doha",
+            "state": "",
+            "country": "Qatar",
+            "address_string": "Salwa Road, Doha Qatar"
+        }
+    },
+    {
+        "location_id": "19122398",
+        "name": "Salwa",
+        "address_obj": {
+            "city": "Ait Ben Haddou",
+            "state": "",
+            "country": "Morocco",
+            "address_string": "Douar TIGGRT a 7 km d'Ait Ben Haddou, Ait Ben Haddou 45252 Morocco"
+        }
+    },
+    {
+        "location_id": "21203575",
+        "name": "Dar Salwa Hotel Apartment",
+        "address_obj": {
+            "city": "Salmiya",
+            "state": "",
+            "country": "Kuwait",
+            "address_string": "Hamad Al-Mubarak Street Building Number 15, Block 4, Salmiya, Hawalli Governorate Kuwait"
+        }
+    },
+    {
+        "location_id": "12385624",
+        "name": "Salwa Home Stay",
+        "address_obj": {
+            "city": "Kochi (Cochin)",
+            "state": "Kerala",
+            "country": "India",
+            "address_string": "Kitkat Road, Kochi (Cochin) 682001 India"
+        }
+    },
+    {
+        "location_id": "488261",
+        "name": "The Palms Beach Hotel and Spa",
+        "address_obj": {
+            "city": "Salwa",
+            "state": "",
+            "country": "Kuwait",
+            "address_string": "Al Bida Al Taawoon Street, Salwa, Hawalli Governorate 13101 Kuwait"
+        }
+    },
+    {
+        "location_id": "26335288",
+        "name": "Dar SALWA GROTTE",
+        "address_obj": {
+            "city": "Ait Ben Haddou",
+            "state": "",
+            "country": "Morocco",
+            "address_string": "1506 Village Tggrt, Ait Ben Haddou 45248 Morocco"
+        }
+    },
+    {
+        "location_id": "308106",
+        "name": "Intercontinental Bahrain",
+        "address_obj": {
+            "city": "Manama",
+            "state": "",
+            "country": "Bahrain",
+            "address_string": "King Faisal Highway, Manama 777 Bahrain"
+        }
+    },
+    {
+        "location_id": "23649589",
+        "name": "Hilton Bahrain",
+        "address_obj": {
+            "city": "Manama",
+            "state": "",
+            "country": "Bahrain",
+            "address_string": "Road 2468 Block 324, Building 4672, Manama Bahrain"
+        }
+    },
+    {
+        "location_id": "7176193",
+        "name": "Four Seasons Hotel Bahrain Bay",
+        "address_obj": {
+            "city": "Manama",
+            "state": "",
+            "country": "Bahrain",
+            "address_string": "Road 4606, Building 555, Block 346, Bahrain Bay, Bahrain Building 555, Block 346, Manama Bahrain"
+        }
+    },
+    {
+        "location_id": "302219",
+        "name": "The Ritz-Carlton, Bahrain",
+        "address_obj": {
+            "city": "Manama",
+            "state": "",
+            "country": "Bahrain",
+            "address_string": "Building 112, Road 40, Al Seef, Block 428, Manama Bahrain"
+        }
+    },
+    {
+        "location_id": "1770191",
+        "name": "Sofitel Bahrain Zallaq Thalassa sea & spa",
+        "address_obj": {
+            "city": "Manama",
+            "state": "",
+            "country": "Bahrain",
+            "address_string": "105 Zallaq Highway Building 2015 Block 1055, Zallaq, Manama 5554 Bahrain"
+        }
+    },
+    {
+        "location_id": "308104",
+        "name": "Gulf Hotel Bahrain Convention and Spa",
+        "address_obj": {
+            "city": "Manama",
+            "state": "",
+            "country": "Bahrain",
+            "address_string": "Building 11 Rd no 3801, Manama Bahrain"
+        }
+    },
+    {
+        "location_id": "301881",
+        "name": "Movenpick Hotel Bahrain",
+        "address_obj": {
+            "city": "Al Muharraq",
+            "state": "",
+            "country": "Bahrain",
+            "address_string": "143 Road 2403, Al Muharraq 224 Bahrain"
+        }
+    },
+    {
+        "location_id": "299718",
+        "name": "Novotel Bahrain Al Dana Resort",
+        "address_obj": {
+            "city": "Manama",
+            "state": "",
+            "country": "Bahrain",
+            "address_string": "121 Sheikh Hamad Causeway, Manama 322 Bahrain"
+        }
+    },
+    {
+        "location_id": "299091",
+        "name": "Crowne Plaza Manama (Bahrain)",
+        "address_obj": {
+            "city": "Manama",
+            "state": "",
+            "country": "Bahrain",
+            "address_string": "Diplomatic Area 317, Manama Bahrain"
+        }
+    },
+    {
+        "location_id": "506739",
+        "name": "Mashtan Bahrain",
+        "address_obj": {
+            "city": "Manama",
+            "state": "",
+            "country": "Bahrain",
+            "address_string": "Road 471, Bldg 3578, Al Khalifa Avenue Bab El Bahrain, Manama 20579 Bahrain"
+        }
+    },
+    {
+        "location_id": "16712486",
+        "name": "W Muscat",
+        "address_obj": {
+            "city": "Muscat",
+            "state": "",
+            "country": "Oman",
+            "address_string": "Al Kharjiya Street Shatti Al Qurum, Muscat 103 Oman"
+        }
+    },
+    {
+        "location_id": "13509917",
+        "name": "Kempinski Hotel Muscat",
+        "address_obj": {
+            "city": "Muscat",
+            "state": "",
+            "country": "Oman",
+            "address_string": "335 Street 6, Muscat 138 Oman"
+        }
+    },
+    {
+        "location_id": "299170",
+        "name": "Intercontinental Muscat, An Ihg Hotel",
+        "address_obj": {
+            "city": "Muscat",
+            "state": "",
+            "country": "Oman",
+            "address_string": "Al Kharjiya Street Al Shati Area, Muscat 114 Oman"
+        }
+    },
+    {
+        "location_id": "301659",
+        "name": "The Chedi Muscat",
+        "address_obj": {
+            "city": "Muscat",
+            "state": "",
+            "country": "Oman",
+            "address_string": "18th November Street, Muscat 133 Oman"
+        }
+    },
+    {
+        "location_id": "306457",
+        "name": "Grand Hyatt Muscat",
+        "address_obj": {
+            "city": "Muscat",
+            "state": "",
+            "country": "Oman",
+            "address_string": "Shatti Al Qurum, Muscat 133 Oman"
+        }
+    },
+    {
+        "location_id": "19844608",
+        "name": "Royal Tulip Muscat",
+        "address_obj": {
+            "city": "Muscat",
+            "state": "",
+            "country": "Oman",
+            "address_string": "Al Marafah Street, Way No. 238 Al Ghubrah North, Muscat 103 Oman"
+        }
+    },
+    {
+        "location_id": "23814827",
+        "name": "Jumeirah Muscat Bay Oman",
+        "address_obj": {
+            "city": "Bandar Jissah",
+            "state": "",
+            "country": "Oman",
+            "address_string": "Al Jissah Street, Bandar Jissah 115 Oman"
+        }
+    },
+    {
+        "location_id": "10364106",
+        "name": "Grand Millennium Muscat",
+        "address_obj": {
+            "city": "Muscat",
+            "state": "",
+            "country": "Oman",
+            "address_string": "Dohat Al Adab Street Al Khuwair Al Khuwair, Muscat 133 Oman"
+        }
+    },
+    {
+        "location_id": "299166",
+        "name": "Crowne Plaza Muscat, an IHG Hotel",
+        "address_obj": {
+            "city": "Muscat",
+            "state": "",
+            "country": "Oman",
+            "address_string": "Qurum Heights Qurum Heights, Muscat 112 Oman"
+        }
+    },
+    {
+        "location_id": "1023336",
+        "name": "Muscat Hills Resort",
+        "address_obj": {
+            "city": "Muscat",
+            "state": "",
+            "country": "Oman",
+            "address_string": "199 Al Jissah St, Muscat 199 Oman"
+        }
+    },
+    {
+        "location_id": "5602921",
+        "name": "Salalah Rotana Resort",
+        "address_obj": {
+            "city": "Salalah",
+            "state": "",
+            "country": "Oman",
+            "address_string": "Hawana Salalah, Taqah Road, Salalah 215 Oman"
+        }
+    },
+    {
+        "location_id": "14934462",
+        "name": "Millennium Resort Salalah",
+        "address_obj": {
+            "city": "Salalah",
+            "state": "",
+            "country": "Oman",
+            "address_string": "Ar Rubat Street, Salalah 211 Oman"
+        }
+    },
+    {
+        "location_id": "301982",
+        "name": "Hilton Salalah Resort",
+        "address_obj": {
+            "city": "Salalah",
+            "state": "",
+            "country": "Oman",
+            "address_string": "As Sultan Qaboos Street, Salalah 211 Oman"
+        }
+    },
+    {
+        "location_id": "18187106",
+        "name": "Atana Stay Salalah",
+        "address_obj": {
+            "city": "Salalah",
+            "state": "",
+            "country": "Oman",
+            "address_string": "Thumrayt St, Salalah 991 Oman"
+        }
+    },
+    {
+        "location_id": "455323",
+        "name": "Crowne Plaza Resort Salalah, an IHG Hotel",
+        "address_obj": {
+            "city": "Salalah",
+            "state": "",
+            "country": "Oman",
+            "address_string": "Al khandaq St, Salalah 211 Oman"
+        }
+    },
+    {
+        "location_id": "10524848",
+        "name": "Al Baleed Resort Salalah by Anantara",
+        "address_obj": {
+            "city": "Salalah",
+            "state": "",
+            "country": "Oman",
+            "address_string": "Al Mansurah Street, Al Baleed, Salalah 211 Oman"
+        }
+    },
+    {
+        "location_id": "5596276",
+        "name": "Salalah Gardens Hotel",
+        "address_obj": {
+            "city": "Salalah",
+            "state": "",
+            "country": "Oman",
+            "address_string": "Al Rabat Street, Salalah 211 Oman"
+        }
+    },
+    {
+        "location_id": "10511164",
+        "name": "IntercityHotel Salalah",
+        "address_obj": {
+            "city": "Salalah",
+            "state": "",
+            "country": "Oman",
+            "address_string": "21009 A' Tatawoor Street Central Business District, Salalah 211 Oman"
+        }
+    },
+    {
+        "location_id": "12688903",
+        "name": "Gateway Salalah Serviced Apartments",
+        "address_obj": {
+            "city": "Salalah",
+            "state": "",
+            "country": "Oman",
+            "address_string": "Ar Rubat Street Near Salalah Gardens Mall, Shell Gas Station, Salalah 211 Oman"
+        }
+    },
+    {
+        "location_id": "4323622",
+        "name": "Beach Resort Salalah",
+        "address_obj": {
+            "city": "Salalah",
+            "state": "",
+            "country": "Oman",
+            "address_string": "Ad Dahariz Street, 2 Way Near Crown Plaza Hotel, Salalah 211 Oman"
+        }
+    },
+    {
+        "location_id": "302685",
+        "name": "Atana Khasab",
+        "address_obj": {
+            "city": "Khasab",
+            "state": "",
+            "country": "Oman",
+            "address_string": "Coastal Rd, Khasab 811 Oman"
+        }
+    },
+    {
+        "location_id": "1020430",
+        "name": "Khasab Hotel",
+        "address_obj": {
+            "city": "Khasab",
+            "state": "",
+            "country": "Oman",
+            "address_string": "Khasab Main Road, Khasab 811 Oman"
+        }
+    },
+    {
+        "location_id": "6413596",
+        "name": "Khasab Musandam Beach Camping",
+        "address_obj": {
+            "city": "Khasab",
+            "state": "",
+            "country": "Oman",
+            "address_string": "Khasab 811 Oman"
+        }
+    },
+    {
+        "location_id": "8817490",
+        "name": "Khasab Musandam Campsite",
+        "address_obj": {
+            "city": "Khasab",
+            "state": "",
+            "country": "Oman",
+            "address_string": "Khasab - Musandam, Khasab 811 Oman"
+        }
+    },
+    {
+        "location_id": "25259845",
+        "name": "Al Hama Hotel Apartments Khasab",
+        "address_obj": {
+            "city": "Khasab",
+            "state": "",
+            "country": "Oman",
+            "address_string": "Coastal Road, Khasab 811 Oman"
+        }
+    },
+    {
+        "location_id": "6733544",
+        "name": "Atana Musandam Resort",
+        "address_obj": {
+            "city": "Khasab",
+            "state": "",
+            "country": "Oman",
+            "address_string": "Khasab 00811 Oman"
+        }
+    },
+    {
+        "location_id": "16797876",
+        "name": "Khasab Sea View Chalet",
+        "address_obj": {
+            "city": "Khasab",
+            "state": "",
+            "country": "Oman",
+            "address_string": "Khasab 811 Oman"
+        }
+    },
+    {
+        "location_id": "17534632",
+        "name": "Khasab Beach Tours Camp",
+        "address_obj": {
+            "city": "Khasab",
+            "state": "",
+            "country": "Oman",
+            "address_string": "Khasab Coastal Road, Khasab 811 Oman"
+        }
+    },
+    {
+        "location_id": "21333360",
+        "name": "Khasab Rooms",
+        "address_obj": {
+            "city": "Khasab",
+            "state": "",
+            "country": "Oman",
+            "address_string": "Sharie Alsinaeiat Khasb, Khasab 811 Oman"
+        }
+    },
+    {
+        "location_id": "6676074",
+        "name": "Diwan Al Amir",
+        "address_obj": {
+            "city": "Khasab",
+            "state": "",
+            "country": "Oman",
+            "address_string": "Khasab Main Road, Khasab 434 Oman"
+        }
+    },
+    {
+        "location_id": "10255938",
+        "name": "Anantara Al Jabal Al Akhdar Resort",
+        "address_obj": {
+            "city": "Jabal Akhdar",
+            "state": "",
+            "country": "Oman",
+            "address_string": "Al Jabal Al Akhdar, Jabal Akhdar, Nizwa 621 Oman"
+        }
+    },
+    {
+        "location_id": "15638908",
+        "name": "Jabal Al Akhdar Grand Hotel",
+        "address_obj": {
+            "city": "Ad-Dakhiliyah Governorate",
+            "state": "",
+            "country": "Oman",
+            "address_string": "Birkat al Mauz Road, 614 Oman"
+        }
+    },
+    {
+        "location_id": "14174966",
+        "name": "Sama Hotel Jabal Al Akhdar Nizwa",
+        "address_obj": {
+            "city": "Saiq",
+            "state": "",
+            "country": "Oman",
+            "address_string": "Saiq 00621 Oman"
+        }
+    },
+    {
+        "location_id": "2012303",
+        "name": "The View Oman",
+        "address_obj": {
+            "city": "Al Hamra",
+            "state": "",
+            "country": "Oman",
+            "address_string": "Hail Al Shas, Al Hamra 112 Oman"
+        }
+    },
+    {
+        "location_id": "1181407",
+        "name": "Al Diyar Hotel",
+        "address_obj": {
+            "city": "Nizwa",
+            "state": "",
+            "country": "Oman",
+            "address_string": "Firq - Near to Nissan Showroom, Nizwa 611 Oman"
+        }
+    },
+    {
+        "location_id": "12923812",
+        "name": "Al Misfah Hospitality Inn",
+        "address_obj": {
+            "city": "Misfat al Abriyyin",
+            "state": "",
+            "country": "Oman",
+            "address_string": "Misfat al Abriyyin 147 Oman"
+        }
+    },
+    {
+        "location_id": "1435794",
+        "name": "Jebel Shams Resort",
+        "address_obj": {
+            "city": "Al Hamra",
+            "state": "",
+            "country": "Oman",
+            "address_string": "Al Dakhliya, Al Hamra Oman"
+        }
+    },
+    {
+        "location_id": "8147309",
+        "name": "Shorfet Al-Alamin Hotel",
+        "address_obj": {
+            "city": "Al Hamra",
+            "state": "",
+            "country": "Oman",
+            "address_string": "Jabal Hat, Al Hamra 617 Oman"
+        }
+    },
+    {
+        "location_id": "3784777",
+        "name": "Misfah Old House",
+        "address_obj": {
+            "city": "Al Hamra",
+            "state": "",
+            "country": "Oman",
+            "address_string": "Misfat Al Abryeen, Al Hamra 1266 Oman"
+        }
+    },
+    {
+        "location_id": "19502961",
+        "name": "AL Feyhaa Resthouse",
+        "address_obj": {
+            "city": "Samail",
+            "state": "",
+            "country": "Oman",
+            "address_string": "Nizwa - Ibri Road, Samail 620 Oman"
+        }
+    },
+    {
+        "location_id": "21229439",
+        "name": "OYO 527 Reef Al Sharqiyah Hotel",
+        "address_obj": {
+            "city": "Dammam",
+            "state": "Eastern Province",
+            "country": "Saudi Arabia",
+            "address_string": "1, Al Badia Near Ghurnata Park, Dammam 32243 Saudi Arabia"
+        }
+    },
+    {
+        "location_id": "3619255",
+        "name": "Mawasim Al Sharqiyah House",
+        "address_obj": {
+            "city": "Al Khobar",
+            "state": "Eastern Province",
+            "country": "Saudi Arabia",
+            "address_string": "Corrich Al Khobar, Al Khobar Saudi Arabia"
+        }
+    },
+    {
+        "location_id": "7779572",
+        "name": "Mawasim AL Sharqiyah Park House",
+        "address_obj": {
+            "city": "Al Khobar",
+            "state": "Eastern Province",
+            "country": "Saudi Arabia",
+            "address_string": "Next to AL Rashed Mall, Gate 8, Al Khobar Saudi Arabia"
+        }
+    },
+    {
+        "location_id": "8678627",
+        "name": "Sama Al Wasil Desert Camp",
+        "address_obj": {
+            "city": "Bidiyah",
+            "state": "",
+            "country": "Oman",
+            "address_string": "Bidiyah Oman"
+        }
+    },
+    {
+        "location_id": "3878058",
+        "name": "Arabian Oryx Camp",
+        "address_obj": {
+            "city": "Al Sharqiyah",
+            "state": "",
+            "country": "Oman",
+            "address_string": "Al Sharqiyah Oman"
+        }
+    },
+    {
+        "location_id": "1984451",
+        "name": "Ras Al Jinz Turtle Reserve",
+        "address_obj": {
+            "city": "Al Hadd",
+            "state": "",
+            "country": "Oman",
+            "address_string": "Al Hadd 411 Oman"
+        }
+    },
+    {
+        "location_id": "1189743",
+        "name": "Resort Ras Al Hadd Holiday",
+        "address_obj": {
+            "city": "Al Hadd",
+            "state": "",
+            "country": "Oman",
+            "address_string": "Al Hadd 111 Oman"
+        }
+    },
+    {
+        "location_id": "26689587",
+        "name": "Reef Al Sharqiyah Hotel",
+        "address_obj": {
+            "city": "Dammam",
+            "state": "Eastern Province",
+            "country": "Saudi Arabia",
+            "address_string": "1, Al Badia, Dammam 32243 Saudi Arabia"
+        }
+    },
+    {
+        "location_id": "23829241",
+        "name": "Arabian Nights Resort & Spa",
+        "address_obj": {
+            "city": "Al Sharqiyah",
+            "state": "",
+            "country": "Oman",
+            "address_string": "Wahiba Sands, Al Sharqiyah 421 Oman"
+        }
+    },
+    {
+        "location_id": "17790458",
+        "name": "Atana Stay Al Ashkara",
+        "address_obj": {
+            "city": "Al Ashkharah",
+            "state": "",
+            "country": "Oman",
+            "address_string": "Jalan Bani Bu Ali, Al Ashkharah 991 Oman"
+        }
+    },
+    {
+        "location_id": "3312750",
+        "name": "Buraimi Hotel",
+        "address_obj": {
+            "city": "Buraimi",
+            "state": "",
+            "country": "Oman",
+            "address_string": "Sohar-Salalah Rd, Buraimi 330 Oman"
+        }
+    },
+    {
+        "location_id": "3786414",
+        "name": "Sama al Buraimi hotel",
+        "address_obj": {
+            "city": "Buraimi",
+            "state": "",
+            "country": "Oman",
+            "address_string": "Behind Dar Al Freej Market, Al Buraymi, Buraimi 512 Oman"
+        }
+    },
+    {
+        "location_id": "24072427",
+        "name": "Al -Buraimi Sky Hotel Apartments",
+        "address_obj": {
+            "city": "Buraimi",
+            "state": "",
+            "country": "Oman",
+            "address_string": "Al Buraimi - New Sa'ara, Near Bank Muscat And Close To Al Buraimi Municipality, Buraimi 512 Oman"
+        }
+    },
+    {
+        "location_id": "17457284",
+        "name": "Nafahat Al Buraimi",
+        "address_obj": {
+            "city": "Buraimi",
+            "state": "",
+            "country": "Oman",
+            "address_string": "Buraimi Courts Complex, Near Al Buraimi Hospital, Buraimi 512 Oman"
+        }
+    },
+    {
+        "location_id": "20106129",
+        "name": "Al Salam Grand Hotel & Resort",
+        "address_obj": {
+            "city": "Buraimi",
+            "state": "",
+            "country": "Oman",
+            "address_string": "Hamasa, Buraimi Oman"
+        }
+    },
+    {
+        "location_id": "10318966",
+        "name": "Wadi Sharm Resort",
+        "address_obj": {
+            "city": "Mahdah",
+            "state": "",
+            "country": "Oman",
+            "address_string": "Mahdah Oman"
+        }
+    },
+    {
+        "location_id": "3799907",
+        "name": "Hamasa Plaza Hotel and Apartments",
+        "address_obj": {
+            "city": "Buraimi",
+            "state": "",
+            "country": "Oman",
+            "address_string": "Main St., Buraimi 938 Oman"
+        }
+    },
+    {
+        "location_id": "9784226",
+        "name": "Aryana Hotel",
+        "address_obj": {
+            "city": "Buraimi",
+            "state": "",
+            "country": "Oman",
+            "address_string": "Main Street, Buraimi 512 Oman"
+        }
+    },
+    {
+        "location_id": "4843724",
+        "name": "Mahadha Hotel",
+        "address_obj": {
+            "city": "Buraimi",
+            "state": "",
+            "country": "Oman",
+            "address_string": "Buraimi 512 Oman"
+        }
+    },
+    {
+        "location_id": "19856977",
+        "name": "Al Deafah Hotel Apartment",
+        "address_obj": {
+            "city": "Buraimi",
+            "state": "",
+            "country": "Oman",
+            "address_string": "11 Sharie Alaidiea' Aleam, Mqabl Emantl Suera', Buraimi 512 Oman"
+        }
+    },
+    {
+        "location_id": "4013253",
+        "name": "Crowne Plaza Duqm, An IHG Hotel",
+        "address_obj": {
+            "city": "Duqm",
+            "state": "",
+            "country": "Oman",
+            "address_string": "Pc 700, Duqm 711 Oman"
+        }
+    },
+    {
+        "location_id": "3582518",
+        "name": "City Hotel Duqm",
+        "address_obj": {
+            "city": "Duqm",
+            "state": "",
+            "country": "Oman",
+            "address_string": "Duqm 711 Oman"
+        }
+    },
+    {
+        "location_id": "4662684",
+        "name": "Arabian Oryx Hotel",
+        "address_obj": {
+            "city": "Haima",
+            "state": "",
+            "country": "Oman",
+            "address_string": "Salalah Highway, Haima 711 Oman"
+        }
+    },
+    {
+        "location_id": "5999680",
+        "name": "Park Inn by Radisson Hotel and Residence Duqm",
+        "address_obj": {
+            "city": "Duqm",
+            "state": "",
+            "country": "Oman",
+            "address_string": "Wadi Say Al Wusta, Duqm PC 136 Oman"
+        }
+    },
+    {
+        "location_id": "19526578",
+        "name": "Arabian Sands Hotel",
+        "address_obj": {
+            "city": "Haima",
+            "state": "",
+            "country": "Oman",
+            "address_string": "Haima Oman"
+        }
+    },
+    {
+        "location_id": "25341305",
+        "name": "Al Ghaftain Rest House",
+        "address_obj": {
+            "city": "Haima",
+            "state": "",
+            "country": "Oman",
+            "address_string": "Highway 31 at Shell Gas Station Ghaftain, Haima Oman"
+        }
+    },
+    {
+        "location_id": "1575576",
+        "name": "Duqm Guest House",
+        "address_obj": {
+            "city": "Duqm",
+            "state": "",
+            "country": "Oman",
+            "address_string": "Next To the Police Station, Duqm Oman"
+        }
+    },
+    {
+        "location_id": "25323520",
+        "name": "Mahout Hotel Apartments",
+        "address_obj": {
+            "city": "Al Khaluf",
+            "state": "",
+            "country": "Oman",
+            "address_string": "Main Road - Mahout, Al Khaluf Oman"
+        }
+    },
+    {
+        "location_id": "505500",
+        "name": "Anwar Al Madinah Movenpick Hotel",
+        "address_obj": {
+            "city": "Medina",
+            "state": "Al Madinah Province",
+            "country": "Saudi Arabia",
+            "address_string": "Central Zone, Medina 42311 Saudi Arabia"
+        }
+    },
+    {
+        "location_id": "302117",
+        "name": "Shangri-La Barr Al Jissah, Muscat",
+        "address_obj": {
+            "city": "Bandar Jissah",
+            "state": "",
+            "country": "Oman",
+            "address_string": "Al Jissah St, Bandar Jissah 100 Oman"
+        }
+    }
+]
