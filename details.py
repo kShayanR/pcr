@@ -9,9 +9,9 @@ from dateutil.relativedelta import relativedelta
 import sys
 
 parser = argparse.ArgumentParser(description='Description of your input arguments')
-parser.add_argument('--start', type=int, default=0, help='Element to start calling API with')
-parser.add_argument('--stop', type=int, default=270, help='Element to stop calling API with. Note that this element is not included to be called.')
-parser.add_argument('--overwrite', type=str, default="YES", help='Indicates whether overwrite the existing file details.csv or not.')
+parser.add_argument('--start', type=int, default=500, help='Element to start calling API with')
+parser.add_argument('--stop', type=int, default=540, help='Element to stop calling API with. Note that this element is not included to be called.')
+parser.add_argument('--overwrite', type=str, default="NO", help='Indicates whether overwrite the existing file details.csv or not.')
 args = parser.parse_args()
 
 csv_details = 'data/details.csv'
@@ -81,7 +81,7 @@ def read_csv(csv_file) :
     return list_of_hotels
 
 def overwrite (csv_file=csv_details) :
-    headers = ["location_id", "name", "description", "web_url", "city", "state", "country", "amenities", "styles", "ranking", "rating", "num_reviews", "price_level"]
+    headers = ["location_id", "type", "name", "description", "web_url", "city", "state", "country", "amenities", "styles", "ranking", "rating", "num_reviews", "price_level"]
     with open(csv_file, "w", newline="", encoding="utf-8") as csv_file:
         
         writer = csv.DictWriter(csv_file, fieldnames=headers)
@@ -89,16 +89,18 @@ def overwrite (csv_file=csv_details) :
 
 def scrape_data(start_at, stop_at, n_calls, search_data) :
 
-    with tqdm(total=n_calls, unit='hotel') as pbar:
+    with tqdm(total=n_calls, unit='location') as pbar:
 
         for element in range(start_at, stop_at):
             location_id = search_data[element].get("location_id")
+            location_type = search_data[element].get("category")
             if location_id is not None:
                 details_json_data = search.location_details(search._key, location_id)
                 if details_json_data is not None :
                   
                   filtered_data = [{
                       "location_id": details_json_data.get("location_id", ""),
+                      "type": location_type,
                       "name": details_json_data.get("name", ""),
                       "description": details_json_data.get("description", ""),
                       "web_url": details_json_data.get("web_url", ""),
@@ -118,7 +120,7 @@ def scrape_data(start_at, stop_at, n_calls, search_data) :
                   process_and_store_data(filtered_data, csv_details)
 
             else:
-                print("No se encontró 'location_id' en este elemento.")
+                print("'location_id' was not found on this item!")
 
             pbar.update(1)
 
@@ -142,7 +144,7 @@ if __name__ == "__main__":
     total_files = len(search_data)
     start_at, stop_at, n_calls, new_config = get_scraping_params(config_data, total_files)
 
-    if args.overwrite :
+    if args.overwrite == "YES":
         overwrite()
 
     scrape_data(start_at, stop_at, n_calls, search_data)
@@ -155,4 +157,4 @@ if __name__ == "__main__":
 
     print("DONE!")
     #print("Number of hotels' details added: " + str(n_calls))
-    print("Total number of hotels in data/details.csv: " + str(n_search))
+    print("Total number of locations in data/details.csv: " + str(n_search))

@@ -10,7 +10,8 @@ import sys
 parser = argparse.ArgumentParser(description='Description of your input arguments')
 parser.add_argument('--start', type=int, default=0, help='Element to start calling API with')
 parser.add_argument('--stop', type=int, default=27, help='Element to stop calling API with. Note that this element is not included to be called.')
-parser.add_argument('--overwrite', type=str, default="YES", help='Indicates whether overwrite the existing file search.json or not.')
+parser.add_argument('--category', type=str, default="restaurants", help='Indicates which category to gather the Information about. (e.g. hotels, restaurants, attractions, etc)')
+parser.add_argument('--overwrite', type=str, default="NO", help='Indicates whether overwrite the existing file search.json or not.')
 args = parser.parse_args()
 
 _key = "BC073290243D4F699FDBC9BA4204A72C"
@@ -20,13 +21,13 @@ json_search = 'data/search.json'
 json_config = 'config.json'
 
 
-def location_search (key, searchQuery, address):
+def location_search (key, category, searchQuery, address):
     
+    _category = category
     _searchQuery = searchQuery.replace(" ", "%20")
     # _address = address.replace(" ", "%20")
-
     # url = "https://api.content.tripadvisor.com/api/v1/location/search?key=" + str(key) + "&searchQuery=hotel%20" + _searchQuery + "&category=hotels&address=" + _address + "&language=en"
-    url = "https://api.content.tripadvisor.com/api/v1/location/search?key=" + str(key) + "&searchQuery=" + _searchQuery + "&category=hotels&language=en"
+    url = "https://api.content.tripadvisor.com/api/v1/location/search?key=" + str(key) + "&searchQuery=" + _searchQuery + "&category=" + _category + "&language=en"
     headers = {"accept": "application/json"}
     try:
         response = requests.get(url, headers=headers)
@@ -136,9 +137,10 @@ def get_scraping_params (config_data, total_files) :
 def scrape_data (start_at, stop_at, n_calls, pairs) :
     all_data_scraped = []
     n_elements_added = 0
+    category = args.category
     with tqdm(total=n_calls, unit='call') as pbar:
         for element in range(start_at, stop_at):
-            search_json_data = location_search(_key, pairs[element]['scc'], pairs[element]["lga"])
+            search_json_data = location_search(_key, category, pairs[element]['scc'], pairs[element]["lga"])
 
             data_list = search_json_data.get('data', [])
 
@@ -148,6 +150,7 @@ def scrape_data (start_at, stop_at, n_calls, pairs) :
                     response_data = [
                         {
                             'location_id': item.get('location_id', ""),
+                            'category': category,
                             'name': item.get('name', ""),
                             'address_obj': {
                                 'city': item['address_obj'].get('city', ""),
@@ -178,9 +181,9 @@ def write_hotel_locations (data) :
 
 if __name__ == "__main__":
 
-    # Read all data pairs of 'lga_names' and 'scc_names' from .json file dataset - This file can change accordingly!
+    # Read all data pairs of 'lga_names' and 'scc_names' from .json file dataset 
     # - LGA : Local Government Area
-    # - SCC : State Suburbs - This is the primary location...
+    # - SCC : State Suburbs
 
     data = read_json(json_dataset)
 
@@ -199,5 +202,5 @@ if __name__ == "__main__":
     write_json(new_config, json_config)
 
     print("DONE!")
-    print("Number of hotels added: " + str(n_elements_added))
-    print("Total number of hotels in data/search.json: " + str(n_search))
+    print("Number of locations added: " + str(n_elements_added))
+    print("Total number of locations in data/search.json: " + str(n_search))

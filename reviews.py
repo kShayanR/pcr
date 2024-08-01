@@ -9,9 +9,9 @@ from dateutil.relativedelta import relativedelta
 import sys
 
 parser = argparse.ArgumentParser(description='Description of your input arguments')
-parser.add_argument('--start', type=int, default=0, help='Element to start calling API with')
-parser.add_argument('--stop', type=int, default=270, help='Element to stop calling API with. Note that this element is not included to be called.')
-parser.add_argument('--overwrite', type=str, default="YES", help='Indicates whether overwrite the existing file reviews.csv or not.')
+parser.add_argument('--start', type=int, default=500, help='Element to start calling API with')
+parser.add_argument('--stop', type=int, default=539, help='Element to stop calling API with. Note that this element is not included to be called.')
+parser.add_argument('--overwrite', type=str, default="NO", help='Indicates whether overwrite the existing file reviews.csv or not.')
 args = parser.parse_args()
 
 csv_details = 'data/details.csv'
@@ -107,7 +107,11 @@ def scrape_data(start_at, stop_at, n_calls, search_data) :
                             user_info = {
                                 "user_id": user_id_counter,
                                 "username": username,
-                                "user_location": user_location
+                                "location": user_location,
+                                "age": "",
+                                "gender": "",
+                                "preferences": "",
+
                             }
                             users_data.append(user_info)
                             users_dict[username] = user_id_counter
@@ -131,7 +135,7 @@ def scrape_data(start_at, stop_at, n_calls, search_data) :
             pbar.update(1)
 
     with open(csv_users, "w", newline="", encoding="utf-8") as csv_file: 
-        user_headers = ["user_id", "username", "user_location"]
+        user_headers = ["user_id", "username", "location", "age", "gender", "preferences"]
         writer = csv.DictWriter(csv_file, fieldnames=user_headers)
         writer.writeheader()
         for user in users_data:
