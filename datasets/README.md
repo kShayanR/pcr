@@ -42,6 +42,7 @@ This file contains detailed information about various locations accumulated from
 | **23** |  num_reviews  |  num_reviews  |
 | **24** |  price_level  |  price_level  |
 | **25** |    source     |    source     |
+
 *The dataset includes 2400 unique Restaurant enteries.*
 
 **Column Definitions:**
@@ -93,6 +94,7 @@ This file includes user reviews for each of the specified locations in the `deta
 | **11**| trip_type            | visit_type     |
 | **12**| travel_date          | visit_date     |
 | **13**| review_url           | review_url     |
+
 *The dataset includes 6,822 unique reviews.*
 
 
@@ -129,6 +131,7 @@ This file contains information about users who have written reviews. Some column
 | **5** | age (none)           | -              |
 | **6** | location             | location       |
 | **7** | preferences          | preferences (none) |
+
 *The dataset consists of 5,289 unique users.*
 
 
