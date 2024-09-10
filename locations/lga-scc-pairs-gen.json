@@ -1,0 +1,474 @@
+[
+    {
+
+        "lga": [
+            "Jumeirah",
+            "Downtown Dubai",
+            "Dubai Marina",
+            "Jumeirah Beach Residence (JBR)",
+            "Deira",
+            "Al Barsha",
+            "Al Quoz",
+            "Business Bay",
+            "Palm Jumeirah",
+            "Al Seef",
+            "Sheikh Mohammed bin Rashid Boulevard",
+            "Al Diyafah Street",
+            "Al Wasl Road",
+            "Al Rigga Road",
+            "Jumeirah Road",
+            "The Walk at JBR",
+            "Sheikh Zayed Road"
+        ],
+        "scc": "Dubai"
+    },
+    {
+        "lga": [
+            "Al Maryah Island",
+            "Saadiyat Island",
+            "Yas Island",
+            "Al Zahiyah",
+            "Khalidiya",
+            "Al Bateen",
+            "Corniche",
+            "Al Raha Beach",
+            "Al Reem Island",
+            "Corniche Road",
+            "Electra Street",
+            "Hamdan Street",
+            "Airport Road",
+            "Al Maqta"
+        ],
+        "scc": "Abu Dhabi"
+    },
+    {
+        "lga": [
+            "Al Majaz",
+            "Al Qasba",
+            "Al Nahda",
+            "Al Khan",
+            "Al Taawun",
+            "Al Mamzar",
+            "Muwaileh",
+            "Rolla",
+            "Al Buhaira Corniche",
+            "Al Khan Street",
+            "King Faisal Street",
+            "Muwailih Commercial",
+            "Sharjah Waterfront City",
+            "Al Layyah"
+        ],
+        "scc": "Sharjah"
+    },
+    {
+        "lga": [
+            "Al Rashidiya",
+            "Corniche",
+            "Al Nuaimiya",
+            "Sheikh Humaid Bin Rashid Al Nuaimi Street",
+            "Al Ittihad Street",
+            "Ajman Corniche",
+            "Al Jurf",
+            "Al Hamidiya",
+            "Mushairef",
+            "Al Rawda",
+            "Al Mowaihat",
+            "Ajman Marina",
+            "Al Zahra"
+        ],
+        "scc": "Ajman"
+    },
+    {
+        "lga": [
+            "Al Raas",
+            "Al Salamah",
+            "King Faisal Road",
+            "Al Ras",
+            "Al Riqqah",
+            "Al Hawiyah",
+            "Al Dar Al Baida",
+            "Al Khor",
+            "Al Maidan",
+            "Al Riqqah Al Hamrah",
+            "Al Abraq",
+            "Al Shuwaib"
+        ],
+        "scc": "Umm Al Quwain"
+    },
+    {
+        "lga": [
+            "Dibba",
+            "Al Faseel",
+            "Al Ghurfah",
+            "Hamad Bin Abdullah Road",
+            "Sheikh Hamad Bin Abdullah Street",
+            "Al Aqah",
+            "Khor Fakkan",
+            "Fujairah Corniche",
+            "Al Hayl",
+            "Al Bidiya",
+            "Sakamkam",
+            "Al Hilal"
+        ],
+        "scc": "Fujairah"
+    },
+    {
+        "lga": [
+            "Al Hamra",
+            "Al Nakheel",
+            "Al Dhait",
+            "Al Qawasim Corniche",
+            "Sheikh Muhammad Bin Salem Road",
+            "Al Marjan Island",
+            "Mina Al Arab",
+            "Al Jazirah Al Hamra",
+            "Al Rams",
+            "Khuzam",
+            "Dafan Al Khor",
+            "Sidroh",
+            "Al Mamourah"
+        ],
+        "scc": "Ras Al Khaimah"
+    },
+    {
+        "lga": [
+            "The Pearl",
+            "West Bay",
+            "Souq Waqif",
+            "Al Sadd",
+            "Katara Cultural Village",
+            "Corniche Road",
+            "Salwa Road",
+            "C Ring Road",
+            "Lusail",
+            "Msheireb Downtown",
+            "Al Waab",
+            "Al Thumama"
+        ],
+        "scc": "Doha"
+    },
+    {
+        "lga": [
+            "Al Jassasiya",
+            "Al Rakiyat",
+            "Abu Samra Road",
+            "Al Mashaf",
+            "Umm Bab",
+            "Al Kharrara",
+            "Al Shahaniya",
+            "Al Rayyan",
+            "Umm Qarn",
+            "Dukhan",
+            "Jariyan Al Batnah",
+            "Al Jumailiya"
+        ],
+        "scc": "Abu Samra"
+    },
+    {
+        "lga": [
+            "Al Wakrah Souq",
+            "Ezdan Village",
+            "Al Wakrah Main Street",
+            "Al Wakrah Corniche",
+            "Ezdan Oasis",
+            "Al Wukair",
+            "Barwa Village",
+            "Al Wakrah South",
+            "Muaither",
+            "Al Mashaf",
+            "Al Janoub",
+            "Al Wakrah Heights"
+        ],
+        "scc": "Al Wakrah"
+    },
+    {
+        "lga": [
+            "Al Thakhira",
+            "Al Khor Community",
+            "Al Khor Coastal Road",
+            "Simaisma",
+            "Al Dhakira",
+            "Al Khor Corniche",
+            "Al Ghuwariyah",
+            "Madinat Al Kaaban",
+            "Umm Birka",
+            "Al Rashida",
+            "Rawdat Al Hamama"
+        ],
+        "scc": "Al Khor"
+    },
+    {
+        "lga": [
+            "Tahlia Street",
+            "Olaya Street",
+            "King Fahd Road",
+            "Al Olaya",
+            "Al Malaz",
+            "Al Murabba",
+            "Al Yasmin",
+            "Diplomatic Quarter (DQ)",
+            "Al Sulaimaniah",
+            "Al Mohammadiyah",
+            "Al Nakheel",
+            "King Abdullah Financial District (KAFD)",
+            "Al Khuzama"
+        ],
+        "scc": "Riyadh"
+    },
+    {
+        "lga": [
+            "Ajyad",
+            "Al Hujun",
+            "Al Tundobawi",
+            "Ibrahim Al Khalil Road",
+            "King Abdul Aziz Road",
+            "Al Haram",
+            "Al Aziziyah",
+            "Al Misfalah",
+            "Mina",
+            "Al Rasaifah",
+            "Al Shisha",
+            "Kuday",
+            "Al Awali"
+        ],
+        "scc": "Mecca"
+    },
+    {
+        "lga": [
+            "Central Area",
+            "Qurban",
+            "King Faisal Road",
+            "Sultana Street",
+            "Quba",
+            "Al Aqiq",
+            "Al Madinah Al Munawwarah",
+            "Al Ansar",
+            "Al Harra Al-Sharqiah",
+            "Al Uyun",
+            "Al Salam",
+            "Bani Muawiyah",
+            "Al Sukhair"
+        ],
+        "scc": "Medina"
+    },
+    {
+        "lga": [
+            "Al Qadisiyah",
+            "Al Nahdah",
+            "King Khalid Street",
+            "Prince Fahd Bin Sultan Road",
+            "Al Ulaya",
+            "Al Rawdah",
+            "Al Muruj",
+            "Al Faisaliah",
+            "Al Bada",
+            "Al Faisaliyah",
+            "Al Suwayrat",
+            "Al Shifa",
+            "Al Andalus"
+        ],
+        "scc": "Tabouk"
+    },
+    {
+        "lga": [
+            "Al Rawda",
+            "Al Safa",
+            "Prince Sultan Street",
+            "King Fahd Road",
+            "Al Rashid",
+            "Al Shati",
+            "Al Sabkha",
+            "Corniche Area",
+            "Al Nuzha",
+            "Al Mithnab",
+            "Al Shamiya",
+            "Al Rukbah"
+        ],
+        "scc": "Jazan"
+    },
+    {
+        "lga": [
+            "Block 9",
+            "Block 10",
+            "Gulf Road",
+            "Salem Al Mubarak Street",
+            "Marina Crescent",
+            "Al Bida'a",
+            "Shaab",
+            "Rumaithiya",
+            "Al Fanar",
+            "Al Balajat Street",
+            "Al Muthanna Complex",
+            "Hawalli",
+            "Salwa"
+        ],
+        "scc": "Salmiya"
+    },
+    {
+        "lga": [
+            "Sharq",
+            "Salhiya",
+            "Gulf Road",
+            "Salem Al Mubarak Street",
+            "Dasman",
+            "Al Qibla",
+            "Mirqab",
+            "Bneid Al-Gar",
+            "Mubarak Al-Kabeer",
+            "Al Shuwaikh",
+            "Al Jahra",
+            "Sabah Al Salem",
+            "Fahaheel"
+        ],
+        "scc": "Kuwait City"
+    },
+    {
+        "lga": [
+            "Block 11",
+            "Block 12",
+            "Arabian Gulf Street",
+            "Salwa Block 7",
+            "Block 9",
+            "Salwa Park",
+            "Mishref",
+            "Bayan",
+            "Jabriya",
+            "Al Zahra",
+            "Rumaithiya"
+        ],
+        "scc": "Salwa"
+    },
+    {
+        "lga": [
+            "Adliya",
+            "Juffair",
+            "Block 338",
+            "Shabab Avenue",
+            "Seef",
+            "Al Hoora",
+            "Diplomatic Area",
+            "Amwaj Islands",
+            "Reef Island",
+            "Al Fateh",
+            "Bahrain Bay",
+            "Al Ghuraifa"
+        ],
+        "scc": "Bahrain"
+    },
+    {
+        "lga": [
+            "Muttrah",
+            "Al Khuwair Street",
+            "Qurum Heights Road",
+            "Al Qurum",
+            "Ruwi",
+            "Al Mouj",
+            "Al Azaiba",
+            "Shatti Al Qurum",
+            "Madinat Sultan Qaboos",
+            "Al Ghubra",
+            "Seeb"
+        ],
+        "scc": "Muscat"
+    },
+    {
+        "lga": [
+            "Al Haffa",
+            "Al Saada",
+            "Sultan Qaboos Street",
+            "Dahariz",
+            "Ittin",
+            "Al Wadi",
+            "Awqad",
+            "Salalah Gardens",
+            "Al Murooj",
+            "Al Dahar",
+            "Al Hafa Souq"
+        ],
+        "scc": "Salalah"
+    },
+    {
+        "lga": [
+            "Al Khasab",
+            "Tawi",
+            "Khasab Road",
+            "Khasab Town",
+            "Al Harf",
+            "Al Tibat",
+            "Al Dhahirah",
+            "Al Qadayyah",
+            "Seeb Al Bahr",
+            "Al Dhiyafa",
+            "Bukha",
+            "Al Maqta"
+        ],
+        "scc": "Khasab"
+    },
+    {
+        "lga": [
+            "Nizwa",
+            "Bahla",
+            "Nizwa Road",
+            "Al Hamra",
+            "Adam",
+            "Bidbid",
+            "Izki",
+            "Manah",
+            "Samail",
+            "Wadi Al Ma'awil",
+            "Al Jabal Al Akhdar"
+        ],
+        "scc": "Al Dakhiliyah"
+    },
+    {
+        "lga": [
+            "Sur",
+            "Ibra",
+            "Sur Coastal Road",
+            "Al Mudhaibi",
+            "Jalan Bani Bu Ali",
+            "Jalan Bani Bu Hassan",
+            "Al Kamil Wal Wafi",
+            "Wadi Bani Khalid",
+            "Masirah",
+            "Al Ashkharah",
+            "Bidiya"
+        ],
+        "scc": "Al Sharqiyah"
+    },
+    {
+        "lga": [
+            "Al Ain Border Area",
+            "Buraimi City Center",
+            "Buraimi Street",
+            "Al Buraimi Town",
+            "Mahdah",
+            "Al Sinaina",
+            "Al Rawdah",
+            "Saara",
+            "Al Khadra",
+            "Hail",
+            "Al Haarah",
+            "Al Halhal",
+            "Al Fulaij"
+        ],
+        "scc": "Buraimi"
+    },
+    {
+        "lga": [
+            "Duqm",
+            "Haima",
+            "Sultan Qaboos Road",
+            "Mahout",
+            "Al Jazer",
+            "Hayma",
+            "Ras Madrakah",
+            "Al Khaluf",
+            "Al Ghaftain",
+            "Al Hujj",
+            "Ras Al Hadd",
+            "Barr Al Hikman"
+        ],
+        "scc": "Al Wusta"
+    }
+]

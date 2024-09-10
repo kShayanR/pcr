@@ -1,0 +1,2078 @@
+[
+    {
+        "lga": "Sydney",
+        "scc": "Camperdown (NSW)"
+    },
+    {
+        "lga": "Sydney",
+        "scc": "Chippendale"
+    },
+    {
+        "lga": "Melbourne",
+        "scc": "Windsor (Vic.)"
+    },
+    {
+        "lga": "Sunshine Coast",
+        "scc": "Beerwah"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Cannon Hill"
+    },
+    {
+        "lga": "Sunshine Coast",
+        "scc": "Cooloolabin"
+    },
+    {
+        "lga": "Cairns",
+        "scc": "East Russell"
+    },
+    {
+        "lga": "Cairns",
+        "scc": "Edge Hill"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Jindalee (Qld)"
+    },
+    {
+        "lga": "Sunshine Coast",
+        "scc": "Kuluin"
+    },
+    {
+        "lga": "Gold Coast",
+        "scc": "Miami"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Milton (Qld)"
+    },
+    {
+        "lga": "Sunshine Coast",
+        "scc": "Mount Coolum"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Newstead (Qld)"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Pallara"
+    },
+    {
+        "lga": "Gold Coast",
+        "scc": "Southport (Qld)"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "St Lucia"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Stafford Heights"
+    },
+    {
+        "lga": "Melbourne",
+        "scc": "Parkville (Vic.)"
+    },
+    {
+        "lga": "Sunshine Coast",
+        "scc": "Bridges"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Brisbane Airport"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Carseldine"
+    },
+    {
+        "lga": "Gold Coast",
+        "scc": "Currumbin Waters"
+    },
+    {
+        "lga": "Sunshine Coast",
+        "scc": "Image Flat"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Kenmore"
+    },
+    {
+        "lga": "Sunshine Coast",
+        "scc": "Landsborough (Qld)"
+    },
+    {
+        "lga": "Gold Coast",
+        "scc": "Lower Beechmont"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Mansfield (Qld)"
+    },
+    {
+        "lga": "Sunshine Coast",
+        "scc": "Mount Mellum"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Nudgee"
+    },
+    {
+        "lga": "Gold Coast",
+        "scc": "Pacific Pines"
+    },
+    {
+        "lga": "Cairns",
+        "scc": "Parramatta Park"
+    },
+    {
+        "lga": "Gold Coast",
+        "scc": "Reedy Creek (Qld)"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Sherwood (Qld)"
+    },
+    {
+        "lga": "Cairns",
+        "scc": "Smithfield (Qld)"
+    },
+    {
+        "lga": "Gold Coast",
+        "scc": "Southern Moreton Bay Islands"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Willawong"
+    },
+    {
+        "lga": "Sunshine Coast",
+        "scc": "Wootha"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Sumner"
+    },
+    {
+        "lga": "Sunshine Coast",
+        "scc": "Weyba Downs"
+    },
+    {
+        "lga": "Adelaide",
+        "scc": "Adelaide"
+    },
+    {
+        "lga": "Perth",
+        "scc": "East Perth"
+    },
+    {
+        "lga": "Sunshine Coast",
+        "scc": "Balmoral Ridge"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Banks Creek"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Belmont (Qld)"
+    },
+    {
+        "lga": "Gold Coast",
+        "scc": "Bundall"
+    },
+    {
+        "lga": "Sunshine Coast",
+        "scc": "Crohamhurst"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Hendra"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Highgate Hill"
+    },
+    {
+        "lga": "Sunshine Coast",
+        "scc": "Kunda Park"
+    },
+    {
+        "lga": "Sunshine Coast",
+        "scc": "Maleny"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Middle Park (Qld)"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Northgate (Qld)"
+    },
+    {
+        "lga": "Gold Coast",
+        "scc": "Tamborine"
+    },
+    {
+        "lga": "Sunshine Coast",
+        "scc": "West Woombye"
+    },
+    {
+        "lga": "Gold Coast",
+        "scc": "Willow Vale (Qld)"
+    },
+    {
+        "lga": "Melbourne",
+        "scc": "North Melbourne"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Acacia Ridge"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Aspley"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Auchenflower"
+    },
+    {
+        "lga": "Sunshine Coast",
+        "scc": "Belli Park"
+    },
+    {
+        "lga": "Sunshine Coast",
+        "scc": "Bli Bli"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Bridgeman Downs"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Bulimba"
+    },
+    {
+        "lga": "Cairns",
+        "scc": "Kamerunga"
+    },
+    {
+        "lga": "Cairns",
+        "scc": "Kanimbla (Qld)"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Kelvin Grove"
+    },
+    {
+        "lga": "Gold Coast",
+        "scc": "Ormeau"
+    },
+    {
+        "lga": "Sunshine Coast",
+        "scc": "Parklands (Qld)"
+    },
+    {
+        "lga": "Sydney",
+        "scc": "Millers Point"
+    },
+    {
+        "lga": "Sydney",
+        "scc": "St Peters (NSW)"
+    },
+    {
+        "lga": "Cairns",
+        "scc": "Aloomba"
+    },
+    {
+        "lga": "Cairns",
+        "scc": "Barron"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Bulwer"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Chuwar"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Cowan Cowan"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "East Brisbane"
+    },
+    {
+        "lga": "Cairns",
+        "scc": "Fitzroy Island"
+    },
+    {
+        "lga": "Gold Coast",
+        "scc": "Ormeau Hills"
+    },
+    {
+        "lga": "Sunshine Coast",
+        "scc": "Pacific Paradise"
+    },
+    {
+        "lga": "Cairns",
+        "scc": "Palm Cove"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Port Of Brisbane"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Sunnybank"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Wakerley"
+    },
+    {
+        "lga": "Sunshine Coast",
+        "scc": "Warana"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Woolloongabba"
+    },
+    {
+        "lga": "Perth",
+        "scc": "West Perth"
+    },
+    {
+        "lga": "Sydney",
+        "scc": "Rushcutters Bay"
+    },
+    {
+        "lga": "Sydney",
+        "scc": "Sydney"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Archerfield"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Chermside"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Darra"
+    },
+    {
+        "lga": "Sunshine Coast",
+        "scc": "Gheerulla"
+    },
+    {
+        "lga": "Sunshine Coast",
+        "scc": "Kings Beach"
+    },
+    {
+        "lga": "Gold Coast",
+        "scc": "Kingsholme"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Kuraby"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Lake Manchester"
+    },
+    {
+        "lga": "Sunshine Coast",
+        "scc": "Moffat Beach"
+    },
+    {
+        "lga": "Gold Coast",
+        "scc": "Palm Beach (Qld)"
+    },
+    {
+        "lga": "Sunshine Coast",
+        "scc": "Perwillowen"
+    },
+    {
+        "lga": "Sunshine Coast",
+        "scc": "Rosemount"
+    },
+    {
+        "lga": "Gold Coast",
+        "scc": "South Stradbroke"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Stretton"
+    },
+    {
+        "lga": "Sunshine Coast",
+        "scc": "Yaroomba"
+    },
+    {
+        "lga": "Gold Coast",
+        "scc": "Arundel"
+    },
+    {
+        "lga": "Cairns",
+        "scc": "Bartle Frere"
+    },
+    {
+        "lga": "Cairns",
+        "scc": "Bellenden Ker"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Burbank"
+    },
+    {
+        "lga": "Sunshine Coast",
+        "scc": "Burnside (Qld)"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Clayfield"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Fitzgibbon"
+    },
+    {
+        "lga": "Sunshine Coast",
+        "scc": "Glenview"
+    },
+    {
+        "lga": "Cairns",
+        "scc": "Goldsborough (Qld)"
+    },
+    {
+        "lga": "Gold Coast",
+        "scc": "Helensvale"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Lutwyche"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Macgregor (Qld)"
+    },
+    {
+        "lga": "Gold Coast",
+        "scc": "Mount Nathan"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Newmarket"
+    },
+    {
+        "lga": "Cairns",
+        "scc": "Redlynch"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Rochedale"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Stones Corner"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Sunnybank Hills"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Toowong"
+    },
+    {
+        "lga": "Sunshine Coast",
+        "scc": "Bald Knob"
+    },
+    {
+        "lga": "Sunshine Coast",
+        "scc": "Booroobin"
+    },
+    {
+        "lga": "Sunshine Coast",
+        "scc": "Coolum Beach"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Geebung"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Lytton"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Moggill"
+    },
+    {
+        "lga": "Cairns",
+        "scc": "Mooroobool"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Morningside"
+    },
+    {
+        "lga": "Sunshine Coast",
+        "scc": "Mountain Creek (Qld)"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Rocklea (Qld)"
+    },
+    {
+        "lga": "Cairns",
+        "scc": "White Rock (Cairns - Qld)"
+    },
+    {
+        "lga": "Adelaide",
+        "scc": "Keswick"
+    },
+    {
+        "lga": "Adelaide",
+        "scc": "North Adelaide"
+    },
+    {
+        "lga": "Sydney",
+        "scc": "Annandale (NSW)"
+    },
+    {
+        "lga": "Melbourne",
+        "scc": "South Wharf"
+    },
+    {
+        "lga": "Gold Coast",
+        "scc": "Advancetown"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Algester"
+    },
+    {
+        "lga": "Sunshine Coast",
+        "scc": "Diddillibah"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Eight Mile Plains"
+    },
+    {
+        "lga": "Cairns",
+        "scc": "Freshwater (Qld)"
+    },
+    {
+        "lga": "Sunshine Coast",
+        "scc": "Golden Beach (Qld)"
+    },
+    {
+        "lga": "Gold Coast",
+        "scc": "Maudsland"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Mitchelton"
+    },
+    {
+        "lga": "Sunshine Coast",
+        "scc": "Mons"
+    },
+    {
+        "lga": "Sunshine Coast",
+        "scc": "Verrierdale"
+    },
+    {
+        "lga": "Cairns",
+        "scc": "Wrights Creek (Qld)"
+    },
+    {
+        "lga": "Sydney",
+        "scc": "Glebe (NSW)"
+    },
+    {
+        "lga": "Sydney",
+        "scc": "Pyrmont"
+    },
+    {
+        "lga": "Gold Coast",
+        "scc": "Clagiraba"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Coorparoo"
+    },
+    {
+        "lga": "Cairns",
+        "scc": "East Trinity"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Ferny Grove"
+    },
+    {
+        "lga": "Sunshine Coast",
+        "scc": "Kureelpa"
+    },
+    {
+        "lga": "Sunshine Coast",
+        "scc": "Marcoola"
+    },
+    {
+        "lga": "Gold Coast",
+        "scc": "Mermaid Beach"
+    },
+    {
+        "lga": "Sunshine Coast",
+        "scc": "Montville"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Norman Park"
+    },
+    {
+        "lga": "Gold Coast",
+        "scc": "Numinbah Valley"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Spring Hill (Qld)"
+    },
+    {
+        "lga": "Gold Coast",
+        "scc": "Tugun"
+    },
+    {
+        "lga": "Sunshine Coast",
+        "scc": "Woombye"
+    },
+    {
+        "lga": "Cairns",
+        "scc": "Wooroonooran (Cairns - Qld)"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Yeronga"
+    },
+    {
+        "lga": "Perth",
+        "scc": "Nedlands"
+    },
+    {
+        "lga": "Perth",
+        "scc": "Shenton Park"
+    },
+    {
+        "lga": "Melbourne",
+        "scc": "Docklands"
+    },
+    {
+        "lga": "Melbourne",
+        "scc": "South Yarra"
+    },
+    {
+        "lga": "Sunshine Coast",
+        "scc": "Eudlo"
+    },
+    {
+        "lga": "Cairns",
+        "scc": "Gordonvale"
+    },
+    {
+        "lga": "Cairns",
+        "scc": "Holloways Beach"
+    },
+    {
+        "lga": "Cairns",
+        "scc": "Mount Peter"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Murarrie"
+    },
+    {
+        "lga": "Gold Coast",
+        "scc": "Nerang"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "New Farm"
+    },
+    {
+        "lga": "Sunshine Coast",
+        "scc": "Pelican Waters"
+    },
+    {
+        "lga": "Sunshine Coast",
+        "scc": "Sippy Downs"
+    },
+    {
+        "lga": "Cairns",
+        "scc": "Trinity Beach"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Virginia (Qld)"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Wynnum West"
+    },
+    {
+        "lga": "Sydney",
+        "scc": "Haymarket"
+    },
+    {
+        "lga": "Sydney",
+        "scc": "Surry Hills"
+    },
+    {
+        "lga": "Sydney",
+        "scc": "The Rocks (Sydney - NSW)"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Balmoral (Qld)"
+    },
+    {
+        "lga": "Gold Coast",
+        "scc": "Benowa"
+    },
+    {
+        "lga": "Gold Coast",
+        "scc": "Broadbeach Waters"
+    },
+    {
+        "lga": "Gold Coast",
+        "scc": "Burleigh Heads"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Corinda"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Everton Park"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Forest Lake"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Graceville"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Gumdale"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Indooroopilly"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Kenmore Hills"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Manly West"
+    },
+    {
+        "lga": "Gold Coast",
+        "scc": "Paradise Point"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Pullenvale"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Westlake"
+    },
+    {
+        "lga": "Gold Coast",
+        "scc": "Worongary"
+    },
+    {
+        "lga": "Cairns",
+        "scc": "Yorkeys Knob"
+    },
+    {
+        "lga": "Perth",
+        "scc": "Crawley"
+    },
+    {
+        "lga": "Gold Coast",
+        "scc": "Austinville"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Brisbane City"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Carina Heights"
+    },
+    {
+        "lga": "Sunshine Coast",
+        "scc": "Conondale"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Doolandella"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Fortitude Valley"
+    },
+    {
+        "lga": "Sunshine Coast",
+        "scc": "Glass House Mountains"
+    },
+    {
+        "lga": "Cairns",
+        "scc": "Green Island"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Greenslopes"
+    },
+    {
+        "lga": "Sunshine Coast",
+        "scc": "Little Mountain"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Nundah"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Paddington (Qld)"
+    },
+    {
+        "lga": "Gold Coast",
+        "scc": "Runaway Bay"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Stafford"
+    },
+    {
+        "lga": "Gold Coast",
+        "scc": "Surfers Paradise"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Taigum"
+    },
+    {
+        "lga": "Gold Coast",
+        "scc": "Tallai"
+    },
+    {
+        "lga": "Cairns",
+        "scc": "Woree"
+    },
+    {
+        "lga": "Sydney",
+        "scc": "Dawes Point"
+    },
+    {
+        "lga": "Sydney",
+        "scc": "Newtown (NSW)"
+    },
+    {
+        "lga": "Sydney",
+        "scc": "Redfern"
+    },
+    {
+        "lga": "Melbourne",
+        "scc": "Flemington"
+    },
+    {
+        "lga": "Melbourne",
+        "scc": "Melbourne"
+    },
+    {
+        "lga": "Gold Coast",
+        "scc": "Alberton (Qld)"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Bowen Hills"
+    },
+    {
+        "lga": "Gold Coast",
+        "scc": "Carrara"
+    },
+    {
+        "lga": "Sunshine Coast",
+        "scc": "Coolabine"
+    },
+    {
+        "lga": "Sunshine Coast",
+        "scc": "Dicky Beach"
+    },
+    {
+        "lga": "Cairns",
+        "scc": "Glen Boughton"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Hamilton (Qld)"
+    },
+    {
+        "lga": "Sunshine Coast",
+        "scc": "Highworth"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Jamboree Heights"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Mount Ommaney"
+    },
+    {
+        "lga": "Sunshine Coast",
+        "scc": "Nirimba (Qld)"
+    },
+    {
+        "lga": "Cairns",
+        "scc": "Portsmith"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Ransome"
+    },
+    {
+        "lga": "Sunshine Coast",
+        "scc": "Shelly Beach (Sunshine Coast - Qld)"
+    },
+    {
+        "lga": "Sunshine Coast",
+        "scc": "Valdora"
+    },
+    {
+        "lga": "Sydney",
+        "scc": "Erskineville"
+    },
+    {
+        "lga": "Gold Coast",
+        "scc": "Ashmore"
+    },
+    {
+        "lga": "Sunshine Coast",
+        "scc": "Battery Hill"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Bellbowrie"
+    },
+    {
+        "lga": "Cairns",
+        "scc": "Brinsmead"
+    },
+    {
+        "lga": "Cairns",
+        "scc": "Cairns North"
+    },
+    {
+        "lga": "Cairns",
+        "scc": "Clifton Beach (Qld)"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Deagon"
+    },
+    {
+        "lga": "Cairns",
+        "scc": "Edmonton"
+    },
+    {
+        "lga": "Sunshine Coast",
+        "scc": "Eerwah Vale"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Fairfield (Qld)"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Fig Tree Pocket"
+    },
+    {
+        "lga": "Sunshine Coast",
+        "scc": "Flaxton"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Hemmant"
+    },
+    {
+        "lga": "Sunshine Coast",
+        "scc": "Kenilworth"
+    },
+    {
+        "lga": "Sunshine Coast",
+        "scc": "Kulangoor"
+    },
+    {
+        "lga": "Cairns",
+        "scc": "Manoora (Qld)"
+    },
+    {
+        "lga": "Gold Coast",
+        "scc": "Parkwood (Qld)"
+    },
+    {
+        "lga": "Gold Coast",
+        "scc": "Steiglitz (Qld)"
+    },
+    {
+        "lga": "Gold Coast",
+        "scc": "Tallebudgera"
+    },
+    {
+        "lga": "Sunshine Coast",
+        "scc": "Twin Waters"
+    },
+    {
+        "lga": "Cairns",
+        "scc": "Woopen Creek"
+    },
+    {
+        "lga": "Sunshine Coast",
+        "scc": "Yandina Creek"
+    },
+    {
+        "lga": "Perth",
+        "scc": "Perth (WA)"
+    },
+    {
+        "lga": "Gold Coast",
+        "scc": "Stapylton"
+    },
+    {
+        "lga": "Gold Coast",
+        "scc": "Wongawallan"
+    },
+    {
+        "lga": "Sydney",
+        "scc": "Zetland"
+    },
+    {
+        "lga": "Sunshine Coast",
+        "scc": "Bokarina"
+    },
+    {
+        "lga": "Sunshine Coast",
+        "scc": "Cambroon"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Chermside West"
+    },
+    {
+        "lga": "Gold Coast",
+        "scc": "Currumbin"
+    },
+    {
+        "lga": "Gold Coast",
+        "scc": "Currumbin Valley"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Drewvale"
+    },
+    {
+        "lga": "Cairns",
+        "scc": "Ellis Beach"
+    },
+    {
+        "lga": "Gold Coast",
+        "scc": "Highland Park"
+    },
+    {
+        "lga": "Sunshine Coast",
+        "scc": "Maroochy River"
+    },
+    {
+        "lga": "Gold Coast",
+        "scc": "Merrimac"
+    },
+    {
+        "lga": "Sunshine Coast",
+        "scc": "Ninderry"
+    },
+    {
+        "lga": "Sunshine Coast",
+        "scc": "Peregian Beach"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Pinjarra Hills"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Robertson (Qld)"
+    },
+    {
+        "lga": "Sydney",
+        "scc": "Paddington (NSW)"
+    },
+    {
+        "lga": "Melbourne",
+        "scc": "West Melbourne"
+    },
+    {
+        "lga": "Cairns",
+        "scc": "Babinda (Qld)"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Bracken Ridge"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Camp Hill"
+    },
+    {
+        "lga": "Gold Coast",
+        "scc": "Coolangatta (Qld)"
+    },
+    {
+        "lga": "Sunshine Coast",
+        "scc": "Doonan"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Heathwood"
+    },
+    {
+        "lga": "Gold Coast",
+        "scc": "Hope Island"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Kalinga"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Mount Coot-tha"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Mount Crosby"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Mount Gravatt East"
+    },
+    {
+        "lga": "Sunshine Coast",
+        "scc": "Witta"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Wynnum"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Albion (Brisbane - Qld)"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Bald Hills (Qld)"
+    },
+    {
+        "lga": "Sunshine Coast",
+        "scc": "Bells Creek"
+    },
+    {
+        "lga": "Cairns",
+        "scc": "Cairns City"
+    },
+    {
+        "lga": "Sunshine Coast",
+        "scc": "Elaman Creek"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Enoggera"
+    },
+    {
+        "lga": "Cairns",
+        "scc": "Green Hill"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Kholo"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Larapinta (Qld)"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Moreton Island"
+    },
+    {
+        "lga": "Cairns",
+        "scc": "Mount Sheridan (Qld)"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Pinkenba"
+    },
+    {
+        "lga": "Sunshine Coast",
+        "scc": "Point Arkwright"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "South Brisbane"
+    },
+    {
+        "lga": "Gold Coast",
+        "scc": "Tallebudgera Valley"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Tarragindi"
+    },
+    {
+        "lga": "Cairns",
+        "scc": "Trinity Park"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Upper Mount Gravatt"
+    },
+    {
+        "lga": "Sunshine Coast",
+        "scc": "Wurtulla"
+    },
+    {
+        "lga": "Sunshine Coast",
+        "scc": "Yandina"
+    },
+    {
+        "lga": "Melbourne",
+        "scc": "East Melbourne"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Boondall"
+    },
+    {
+        "lga": "Sunshine Coast",
+        "scc": "Bribie Island North"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Carindale"
+    },
+    {
+        "lga": "Cairns",
+        "scc": "Deeral"
+    },
+    {
+        "lga": "Gold Coast",
+        "scc": "Gilberton (Gold Coast - Qld)"
+    },
+    {
+        "lga": "Gold Coast",
+        "scc": "Guanaba"
+    },
+    {
+        "lga": "Gold Coast",
+        "scc": "Luscombe"
+    },
+    {
+        "lga": "Gold Coast",
+        "scc": "Main Beach"
+    },
+    {
+        "lga": "Sunshine Coast",
+        "scc": "Mudjimba"
+    },
+    {
+        "lga": "Sunshine Coast",
+        "scc": "Nambour"
+    },
+    {
+        "lga": "Sunshine Coast",
+        "scc": "Reesville"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Runcorn"
+    },
+    {
+        "lga": "Sydney",
+        "scc": "Beaconsfield (NSW)"
+    },
+    {
+        "lga": "Melbourne",
+        "scc": "Carlton North"
+    },
+    {
+        "lga": "Cairns",
+        "scc": "Aeroglen"
+    },
+    {
+        "lga": "Sunshine Coast",
+        "scc": "Birtinya"
+    },
+    {
+        "lga": "Sunshine Coast",
+        "scc": "Buderim"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Chelmer"
+    },
+    {
+        "lga": "Gold Coast",
+        "scc": "Clear Island Waters"
+    },
+    {
+        "lga": "Gold Coast",
+        "scc": "Coomera"
+    },
+    {
+        "lga": "Sunshine Coast",
+        "scc": "Curramore (Qld)"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Durack (Qld)"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Kooringal (Qld)"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Lota"
+    },
+    {
+        "lga": "Gold Coast",
+        "scc": "Norwell"
+    },
+    {
+        "lga": "Gold Coast",
+        "scc": "Oxenford"
+    },
+    {
+        "lga": "Gold Coast",
+        "scc": "Pimpama"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Red Hill (Brisbane - Qld)"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Richlands (Qld)"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Salisbury (Qld)"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Sandgate (Qld)"
+    },
+    {
+        "lga": "Gold Coast",
+        "scc": "Springbrook"
+    },
+    {
+        "lga": "Cairns",
+        "scc": "Stratford (Qld)"
+    },
+    {
+        "lga": "Sunshine Coast",
+        "scc": "Tanawha"
+    },
+    {
+        "lga": "Sunshine Coast",
+        "scc": "Towen Mountain"
+    },
+    {
+        "lga": "Gold Coast",
+        "scc": "Varsity Lakes"
+    },
+    {
+        "lga": "Perth",
+        "scc": "Northbridge (WA)"
+    },
+    {
+        "lga": "Sydney",
+        "scc": "Darlington (Sydney - NSW)"
+    },
+    {
+        "lga": "Sydney",
+        "scc": "Ultimo"
+    },
+    {
+        "lga": "Melbourne",
+        "scc": "Carlton (Vic.)"
+    },
+    {
+        "lga": "Melbourne",
+        "scc": "Port Melbourne"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Brighton (Qld)"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Brookfield (Qld)"
+    },
+    {
+        "lga": "Sunshine Coast",
+        "scc": "Caloundra West"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Ellen Grove"
+    },
+    {
+        "lga": "Sunshine Coast",
+        "scc": "Hunchy"
+    },
+    {
+        "lga": "Sunshine Coast",
+        "scc": "Kiamba"
+    },
+    {
+        "lga": "Cairns",
+        "scc": "Machans Beach"
+    },
+    {
+        "lga": "Sunshine Coast",
+        "scc": "Palmview"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Petrie Terrace"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Riverhills"
+    },
+    {
+        "lga": "Gold Coast",
+        "scc": "Robina"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "The Gap (Brisbane - Qld)"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Windsor (Qld)"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Wooloowin"
+    },
+    {
+        "lga": "Adelaide",
+        "scc": "Ovingham"
+    },
+    {
+        "lga": "Sydney",
+        "scc": "Forest Lodge"
+    },
+    {
+        "lga": "Melbourne",
+        "scc": "Southbank"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Alderley"
+    },
+    {
+        "lga": "Sunshine Coast",
+        "scc": "Alexandra Headland"
+    },
+    {
+        "lga": "Cairns",
+        "scc": "Bayview Heights"
+    },
+    {
+        "lga": "Cairns",
+        "scc": "Bentley Park"
+    },
+    {
+        "lga": "Gold Coast",
+        "scc": "Bonogin"
+    },
+    {
+        "lga": "Cairns",
+        "scc": "Bungalow"
+    },
+    {
+        "lga": "Sunshine Coast",
+        "scc": "Currimundi"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "England Creek"
+    },
+    {
+        "lga": "Sunshine Coast",
+        "scc": "Forest Glen (Qld)"
+    },
+    {
+        "lga": "Cairns",
+        "scc": "Macalister Range"
+    },
+    {
+        "lga": "Sunshine Coast",
+        "scc": "Mapleton"
+    },
+    {
+        "lga": "Gold Coast",
+        "scc": "Mermaid Waters"
+    },
+    {
+        "lga": "Sunshine Coast",
+        "scc": "Mooloolaba"
+    },
+    {
+        "lga": "Sunshine Coast",
+        "scc": "North Maleny"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Oxley (Qld)"
+    },
+    {
+        "lga": "Cairns",
+        "scc": "Packers Camp"
+    },
+    {
+        "lga": "Sunshine Coast",
+        "scc": "Peregian Springs"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Seventeen Mile Rocks"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Tingalpa"
+    },
+    {
+        "lga": "Sydney",
+        "scc": "Eveleigh"
+    },
+    {
+        "lga": "Melbourne",
+        "scc": "Kensington (Vic.)"
+    },
+    {
+        "lga": "Cairns",
+        "scc": "Barron Gorge"
+    },
+    {
+        "lga": "Cairns",
+        "scc": "Caravonica"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Chandler (Qld)"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Dutton Park"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Enoggera Reservoir"
+    },
+    {
+        "lga": "Cairns",
+        "scc": "Eubenangee"
+    },
+    {
+        "lga": "Cairns",
+        "scc": "Fishery Falls"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Gordon Park"
+    },
+    {
+        "lga": "Gold Coast",
+        "scc": "Jacobs Well"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Kedron"
+    },
+    {
+        "lga": "Sunshine Coast",
+        "scc": "Kiels Mountain"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Mackenzie (Brisbane - Qld)"
+    },
+    {
+        "lga": "Sunshine Coast",
+        "scc": "Maroochydore"
+    },
+    {
+        "lga": "Cairns",
+        "scc": "Mirriwinni"
+    },
+    {
+        "lga": "Gold Coast",
+        "scc": "Molendinar"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Wacol"
+    },
+    {
+        "lga": "Cairns",
+        "scc": "Waugh Pocket"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Wavell Heights"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Wilston"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Yeerongpilly"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Tennyson (Qld)"
+    },
+    {
+        "lga": "Cairns",
+        "scc": "Westcourt"
+    },
+    {
+        "lga": "Gold Coast",
+        "scc": "Yatala"
+    },
+    {
+        "lga": "Perth",
+        "scc": "Subiaco"
+    },
+    {
+        "lga": "Sydney",
+        "scc": "Darlinghurst"
+    },
+    {
+        "lga": "Sydney",
+        "scc": "Elizabeth Bay"
+    },
+    {
+        "lga": "Sydney",
+        "scc": "Moore Park"
+    },
+    {
+        "lga": "Sydney",
+        "scc": "Potts Point"
+    },
+    {
+        "lga": "Sydney",
+        "scc": "Rosebery (NSW)"
+    },
+    {
+        "lga": "Sydney",
+        "scc": "Woolloomooloo"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Anstead"
+    },
+    {
+        "lga": "Gold Coast",
+        "scc": "Biggera Waters"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Calamvale"
+    },
+    {
+        "lga": "Sunshine Coast",
+        "scc": "Caloundra"
+    },
+    {
+        "lga": "Sunshine Coast",
+        "scc": "Chevallum"
+    },
+    {
+        "lga": "Gold Coast",
+        "scc": "Coombabah"
+    },
+    {
+        "lga": "Sunshine Coast",
+        "scc": "Corbould Park"
+    },
+    {
+        "lga": "Sunshine Coast",
+        "scc": "Dulong"
+    },
+    {
+        "lga": "Gold Coast",
+        "scc": "Elanora"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Gaythorne"
+    },
+    {
+        "lga": "Gold Coast",
+        "scc": "Gilston"
+    },
+    {
+        "lga": "Sunshine Coast",
+        "scc": "Ilkley"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Kangaroo Point (Qld)"
+    },
+    {
+        "lga": "Sunshine Coast",
+        "scc": "Meridan Plains"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Nathan"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Nudgee Beach"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Parkinson"
+    },
+    {
+        "lga": "Sunshine Coast",
+        "scc": "Peachester"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Ashgrove"
+    },
+    {
+        "lga": "Sunshine Coast",
+        "scc": "Coes Creek"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Karawatha"
+    },
+    {
+        "lga": "Sunshine Coast",
+        "scc": "Kidaman Creek"
+    },
+    {
+        "lga": "Sunshine Coast",
+        "scc": "Landers Shoot"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "McDowall"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Moorooka"
+    },
+    {
+        "lga": "Sunshine Coast",
+        "scc": "Parrearra"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Shorncliffe"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Taringa"
+    },
+    {
+        "lga": "Gold Coast",
+        "scc": "Upper Coomera"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "West End (Brisbane - Qld)"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Annerley"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Banyo"
+    },
+    {
+        "lga": "Sunshine Coast",
+        "scc": "Baringa"
+    },
+    {
+        "lga": "Gold Coast",
+        "scc": "Bilinga"
+    },
+    {
+        "lga": "Cairns",
+        "scc": "Bramston Beach"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Carina (Qld)"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Chapel Hill (Qld)"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Coopers Plains"
+    },
+    {
+        "lga": "Cairns",
+        "scc": "Earlville"
+    },
+    {
+        "lga": "Gold Coast",
+        "scc": "Gaven"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Grange (Qld)"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Holland Park"
+    },
+    {
+        "lga": "Gold Coast",
+        "scc": "Hollywell"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Karana Downs"
+    },
+    {
+        "lga": "Gold Coast",
+        "scc": "Labrador"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Moreton Bay"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Mount Gravatt"
+    },
+    {
+        "lga": "Gold Coast",
+        "scc": "Natural Bridge"
+    },
+    {
+        "lga": "Sunshine Coast",
+        "scc": "Palmwoods (Qld)"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Zillmere"
+    },
+    {
+        "lga": "Sydney",
+        "scc": "Alexandria"
+    },
+    {
+        "lga": "Sydney",
+        "scc": "Centennial Park (NSW)"
+    },
+    {
+        "lga": "Sydney",
+        "scc": "Waterloo (NSW)"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Ascot (Brisbane - Qld)"
+    },
+    {
+        "lga": "Sunshine Coast",
+        "scc": "Beerburrum"
+    },
+    {
+        "lga": "Gold Coast",
+        "scc": "Broadbeach"
+    },
+    {
+        "lga": "Sunshine Coast",
+        "scc": "Buddina"
+    },
+    {
+        "lga": "Gold Coast",
+        "scc": "Burleigh Waters"
+    },
+    {
+        "lga": "Sunshine Coast",
+        "scc": "Diamond Valley"
+    },
+    {
+        "lga": "Sunshine Coast",
+        "scc": "Eumundi"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Inala"
+    },
+    {
+        "lga": "Cairns",
+        "scc": "Kewarra Beach"
+    },
+    {
+        "lga": "Cairns",
+        "scc": "Lamb Range"
+    },
+    {
+        "lga": "Cairns",
+        "scc": "Little Mulgrave"
+    },
+    {
+        "lga": "Gold Coast",
+        "scc": "Neranwood"
+    },
+    {
+        "lga": "Sunshine Coast",
+        "scc": "North Arm (Qld)"
+    },
+    {
+        "lga": "Sunshine Coast",
+        "scc": "Obi Obi"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Seven Hills (Qld)"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Sinnamon Park"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Teneriffe"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Upper Brookfield"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Upper Kedron"
+    },
+    {
+        "lga": "Perth",
+        "scc": "Kings Park (WA)"
+    },
+    {
+        "lga": "Sydney",
+        "scc": "Barangaroo"
+    },
+    {
+        "lga": "Sunshine Coast",
+        "scc": "Aroona"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Bardon"
+    },
+    {
+        "lga": "Gold Coast",
+        "scc": "Cedar Creek (Logan - Qld)"
+    },
+    {
+        "lga": "Sunshine Coast",
+        "scc": "Coochin Creek"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Eagle Farm"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Hawthorne"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Herston"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Holland Park West"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Keperra"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Manly (Qld)"
+    },
+    {
+        "lga": "Cairns",
+        "scc": "Manunda"
+    },
+    {
+        "lga": "Sunshine Coast",
+        "scc": "Minyama"
+    },
+    {
+        "lga": "Sunshine Coast",
+        "scc": "Mooloolah Valley"
+    },
+    {
+        "lga": "Gold Coast",
+        "scc": "Mudgeeraba"
+    },
+    {
+        "lga": "Cairns",
+        "scc": "Ngatjan"
+    },
+    {
+        "lga": "Cairns",
+        "scc": "Whitfield (Qld)"
+    },
+    {
+        "lga": "Brisbane",
+        "scc": "Wishart (Qld)"
+    },
+    {
+        "lga": "Gold Coast",
+        "scc": "Woongoolba"
+    }
+]
