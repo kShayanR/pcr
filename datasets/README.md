@@ -42,9 +42,13 @@ This file contains detailed information about various locations accumulated from
 | **23** |  num_reviews  |  num_reviews  |
 | **24** |  price_level  |  price_level  |
 | **25** |    source     |    source     |
+<<<<<<< HEAD
 
 *The dataset includes 3650 unique entries.*
 
+=======
+- *The dataset includes 2400 unique Restaurant entries.*
+>>>>>>> 21a4cc8d7fd912425ee5a998b1ddb754f613d417
 
 **Column Definitions:**
 
@@ -82,6 +86,7 @@ This file contains detailed information about various locations accumulated from
 
 This file includes user reviews for each of the specified locations in the `details.csv` dataset. The changes include renaming along with some modifications in data structure to enhance the review data.
 
+<<<<<<< HEAD
 | **#**  |     **Old**      |     **New**      |
 | :----: | :--------------: | :--------------: |
 | **1**  |      status      |      status      |
@@ -99,6 +104,24 @@ This file includes user reviews for each of the specified locations in the `deta
 | **13** |    review_url    |    review_url    |
 
 *The dataset includes 6,822 unique reviews.*
+=======
+| **#** | **Old** | **New** |
+|:-----:|:--------------------:|:--------------:|
+| **1** | status               | status         |
+| **2** | review_id            | review_id      |
+| **3** | location_id (fk)     | location_id (fk) |
+| **4** | user_id (fk)         | user_id (fk)   |
+| **5** | rating               | rating         |
+| **6** | helpful_votes        | agree_count    |
+| **7** | published_date       | published_date |
+| **8** | title                | title          |
+| **9** | text                 | text           |
+| **10**| sentiment            | ***sentiment***      |
+| **11**| trip_type            | visit_type     |
+| **12**| travel_date          | ***visit_date***     |
+| **13**| review_url           | review_url     |
+- *The dataset includes 6,822 unique reviews.*
+>>>>>>> 21a4cc8d7fd912425ee5a998b1ddb754f613d417
 
 **Column Definitions:**
 
@@ -124,6 +147,7 @@ This file includes user reviews for each of the specified locations in the `deta
 
 This file contains information about users who have written reviews. Some columns have been updated to reflect the absence of data.
 
+<<<<<<< HEAD
 | **#** |   **Old**   |      **New**       |
 | :---: | :---------: | :----------------: |
 | **1** |   user_id   |      user_id       |
@@ -135,6 +159,18 @@ This file contains information about users who have written reviews. Some column
 | **7** | preferences | preferences (none) |
 
 *The dataset consists of 5,289 unique users.*
+=======
+| **#** | **Old** | **New** |
+|:-----:|:--------------------:|:--------------:|
+| **1** | user_id              | user_id        |
+| **2** | -                    | name           |
+| **3** | username             | username       |
+| **4** | gender               | gender         |
+| **5** | age (none)           | -              |
+| **6** | location             | location       |
+| **7** | preferences          | preferences (none) |
+- *The dataset consists of 5,289 unique users.*
+>>>>>>> 21a4cc8d7fd912425ee5a998b1ddb754f613d417
 
 **Column Definitions:**
 
