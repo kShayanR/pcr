@@ -23,7 +23,6 @@ json_config = 'config.json'
 
 def location_search(key, category, catcode, query, address):
     
-    # url = "https://api.foursquare.com/v3/places/search"
     url  = f"https://api.foursquare.com/v2/search/recommendations?oauth_token={key}"
 
     headers = { "Accept": "application/json" }
@@ -33,22 +32,14 @@ def location_search(key, category, catcode, query, address):
         # "query": f"{category} in {query}",
         "query": query,
         "near": address,
-        "section": "food", #,drinks,coffee",
-        "categoryId": catcode,
+        # "section": "food", #,drinks,coffee",
+        # "categoryId": catcode,
         "time": "any",
         "day": "any",
-        "sortByPopularity": False,
+        # "sortByPopularity": False,
         "limit": 50,
-        "offset": 50,
+        # "offset": 1,
     }
-
-    # params = {
-    #     "query": query,
-    #     "near": f"{address}",
-    #     "limit": 50,
-    #     "categories": catcode,
-    #     # "sort": "POPULARITY"
-    # }
 
     try:
         response = requests.get(url, headers=headers, params=params)
@@ -167,7 +158,6 @@ def scrape_data(start_at, stop_at, n_calls, pairs):
 
     n_elements_added = 0
     category = args.category
-    # catcode = "13065" if category == "restaurant" else "19009"
     catcode = "4d4b7105d754a06374d81259" if category == "restaurant" else "4bf58dd8d48988d1d5941735" # For Hotel Bars & "4bf58dd8d48988d1fa931735" for Hotels & "63be6904847c3692a84b9bb5" for Dining and Drinking
     with tqdm(total=n_calls, unit='call') as pbar:
         for element in range(start_at, stop_at):
@@ -179,11 +169,13 @@ def scrape_data(start_at, stop_at, n_calls, pairs):
             for item in data_list:
                 venue = item['venue']
                 location_id = venue.get('id', "")
-                if location_id not in existing_ids and location_id not in scraped_ids:
+                cats = "restaurant,cafe, coffee, and tea house,burger joint,fast food restaurant,turkish restaurant,rooftop bar,bar,lounge,night club,food court,hotel,middle eastern restaurant,italian restaurant,american restaurant,spa,seafood restaurant,cocktail bar,brasserie,plaza,french restaurant,hotel bar,steakhouse,chinese restaurant,asian restaurant,mediterranean restaurant,beach bar,lebanese restaurant,coffee shop,breakfast spot,hookah bar,syrian restaurant,egyptian restaurant,greek restaurant,japanese restaurant,sandwich spot,bakery,theme restaurant,vr cafe,other great outdoors,arcade,food truck,gaming cafe,iraqi restaurant,bistro,dessert shop,tea room,australian restaurant,ice cream parlor,mexican restaurant,pastry shop,moroccan restaurant,english restaurant,gluten-free restaurant,german restaurant,kebab restaurant,dumpling restaurant,café"
+                cat = venue['categories'][0].get('name', "").lower() if venue.get('categories') and len(venue['categories']) > 0 else "undefined"
+                if location_id not in existing_ids and location_id not in scraped_ids and cat in cats:
                     response_data = [
                         {
                             'location_id': location_id,
-                            'category': category,
+                            'category': cat,
                             'name': venue.get('name', ""),
                             'address_obj': {
                                 'city': venue['location'].get('city', ""),
