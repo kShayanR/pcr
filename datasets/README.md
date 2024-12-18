@@ -79,7 +79,7 @@ This file contains detailed information about various locations accumulated from
 
 This file includes user reviews for each of the specified locations in the `details.csv` dataset.
 
-| **#**  |     **New**      |
+| **#**  |     **Col**      |
 | :----: | :--------------: |
 | **1**  |      status      |
 | **2**  |    review_id     |
