@@ -1,3 +1,4 @@
+import csv
 from tqdm import tqdm
 import requests
 import json
@@ -20,6 +21,26 @@ json_dataset = 'locations/lga-scc-pairs.json'
 json_search = 'datasets/search.json'
 json_config = 'config.json'
 
+
+def read_json(file) :
+    with open(file, 'r', encoding='utf-8') as archive_json:
+        data = json.load(archive_json)
+    return data
+
+def read_csv(csv_file) :
+    data = []
+    with open(csv_file, mode="r", newline="", encoding="utf-8") as file: 
+        reader = csv.DictReader(file)
+        
+        for row in reader :
+            data.append(row)
+    return data
+
+def write_json(data, json_file) :
+    with open(json_file, 'w', encoding='utf-8') as json_file:
+        json.dump(data, json_file, ensure_ascii=False, indent=4)
+
+###
 
 def location_search(key, category, catcode, query, address):
     
@@ -87,10 +108,7 @@ def location_reviews(key, locationId):
     except Exception as e:
         print(f"An unexpected error occurred: {e}")
 
-def read_json(file) :
-    with open(file, 'r', encoding='utf-8') as archive_json:
-        data = json.load(archive_json)
-    return data
+###
 
 def get_scraping_params(config_data, total_files) :
     start_at = args.start
@@ -191,10 +209,6 @@ def scrape_data(start_at, stop_at, n_calls, pairs):
 
             pbar.update(1)
     return all_data_scraped, n_elements_added
-
-def write_json(data, json_file) :
-    with open(json_file, 'w', encoding='utf-8') as json_file:
-        json.dump(data, json_file, ensure_ascii=False, indent=4)
 
 def write_locations(data) :
     if args.overwrite == "NO" :

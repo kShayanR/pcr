@@ -1,4 +1,4 @@
-import ta_search
+import ta_search as ts
 import os
 import csv
 from tqdm import tqdm
@@ -60,7 +60,7 @@ def get_scraping_params(config_data, total_files) :
     if n_calls > remaining_calls :
         n_calls = remaining_calls
         if n_calls <= 0 :
-            date_of_reset = starting_date + relativedelta(months=1) # Add one month
+            date_of_reset = starting_date + relativedelta(months=1)
             print("You cannot make any more free API calls until " + date_of_reset.strftime('%Y-%m-%d') + ".")
             sys.exit()
         stop_at = start_at + n_calls
@@ -94,7 +94,7 @@ def scrape_data(start_at, stop_at, n_calls, search_data) :
             location_id = search_data[element].get("location_id")
             # location_type = search_data[element].get("category")
             if location_id is not None:
-                details_json_data = ta_search.location_details(ta_search._key, location_id)
+                details_json_data = ts.location_details(ts._key, location_id)
                 if details_json_data is not None:
                     filtered_data = [{
                         "location_id": details_json_data.get("location_id", ""),
@@ -131,7 +131,7 @@ def process_and_store_data(data_json, csv_file):
     file_exists = os.path.exists(csv_file)
     mode = "a" if file_exists else "w"
     with open(csv_file, mode, newline="", encoding="utf-8") as csv_file:
-        fields = data_json[0].keys()  # Using keys from the first dictionary as headers
+        fields = data_json[0].keys()
         writer = csv.DictWriter(csv_file, fieldnames=fields)
 
         if not file_exists:
@@ -141,8 +141,8 @@ def process_and_store_data(data_json, csv_file):
             writer.writerow(row)
 
 if __name__ == "__main__":
-    search_data = ta_search.read_json(ta_search.json_search)
-    config_data = ta_search.read_json(ta_search.json_config)
+    search_data = ts.read_json(ts.json_search)
+    config_data = ts.read_json(ts.json_config)
 
     total_files = len(search_data)
     start_at, stop_at, n_calls, new_config = get_scraping_params(config_data, total_files)
@@ -156,7 +156,7 @@ if __name__ == "__main__":
     n_search = len(data)
     new_config['reviews']['n_elements'] = n_search
 
-    ta_search.write_json(new_config, ta_search.json_config)
+    ts.write_json(new_config, ts.json_config)
 
     print("DONE!")
     print("Number of hotels' details added: " + str(n_calls))

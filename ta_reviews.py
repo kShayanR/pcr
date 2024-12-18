@@ -1,4 +1,4 @@
-import ta_search
+import ta_search as ts
 import csv
 import argparse
 import os
@@ -97,7 +97,7 @@ def scrape_data(start_at, stop_at, n_calls, search_data) :
             location_id = search_data[element]['location_id']
             if location_id is not None and location_id not in scraped_ids :
                 scraped_ids.append(location_id)
-                reviews_json_data = ta_search.location_reviews(ta_search._key, location_id)
+                reviews_json_data = ts.location_reviews(ts._key, location_id)
                 
                 if reviews_json_data :
                     for item in reviews_json_data['data']:
@@ -170,7 +170,7 @@ def update_reviews(matched_reviews, csv_file=csv_reviews) :
         for mreview in matched_reviews :
             if matched_reviews.index(mreview) not in repeated_indexes :
                 mreview['status'] = "NEW"
-                existing_reviews = [mreview] + existing_reviews
+                existing_reviews += [mreview]
     else :
         for mreview in matched_reviews :
             mreview['status'] = "NEW"
@@ -186,7 +186,7 @@ def update_reviews(matched_reviews, csv_file=csv_reviews) :
 if __name__ == "__main__":
 
     search_data = read_csv(csv_details)
-    config_data = ta_search.read_json(ta_search.json_config)
+    config_data = ts.read_json(ts.json_config)
 
     location_ids = []
     for search_element in search_data :
@@ -202,7 +202,7 @@ if __name__ == "__main__":
     data = read_csv(csv_reviews)
     n_search = len(data)
 
-    ta_search.write_json(new_config, ta_search.json_config)
+    ts.write_json(new_config, ts.json_config)
 
     print("DONE!")
     print("Number of reviews added: " + str(len(reviews)))

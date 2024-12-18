@@ -1,4 +1,4 @@
-import fsq_search
+import fsq_search as fs
 import os
 import csv
 from tqdm import tqdm
@@ -9,14 +9,14 @@ from dateutil.relativedelta import relativedelta
 import sys
 
 parser = argparse.ArgumentParser(description='Description of your input arguments')
-parser.add_argument('--start', type=int, default=1800, help='Element to start calling API with')
-parser.add_argument('--stop', type=int, default=1829, help='Element to stop calling API with. Note that this element is not included to be called.')
+parser.add_argument('--start', type=int, default=3600, help='Element to start calling API with')
+parser.add_argument('--stop', type=int, default=3650, help='Element to stop calling API with. Note that this element is not included to be called.')
 parser.add_argument('--overwrite', type=str, default="NO", help='Indicates whether overwrite the existing file details.csv or not.')
 args = parser.parse_args()
 
 csv_details = 'datasets/details.csv'
 
-def get_scraping_params(config_data, total_files) :
+def get_scraping_params(config_data, total_files):
     start_at = args.start
     stop_at = args.stop
     n_calls = stop_at - start_at
@@ -71,16 +71,8 @@ def get_scraping_params(config_data, total_files) :
     
     return start_at, stop_at, n_calls, new_config
 
-def read_csv(csv_file) :
-    list_of_hotels = []
-    with open(csv_file, mode="r", newline="", encoding="utf-8") as file:
-        reader = csv.DictReader(file)
-        
-        for row in reader :
-            list_of_hotels.append(row)
-    return list_of_hotels
 
-def overwrite(csv_file=csv_details) :
+def overwrite(csv_file=csv_details):
     headers = ["location_id", "category", "name", "description", "reviews_url", "address", "city", "state", "country", "working_hours", "popular_hours", "timezone", "email", "phone", "website", "amenities", "cuisine", "ranking", "total_rating", "num_reviews", "price_level", "source"]
     with open(csv_file, "w", newline="", encoding="utf-8") as csv_file:
         writer = csv.DictWriter(csv_file, fieldnames=headers)
@@ -133,7 +125,7 @@ def scrape_data(start_at, stop_at, n_calls, search_data) :
             location_id = search_data[element].get("location_id")
             category = search_data[element].get("category")
             if location_id is not None:
-                details_json_data = fsq_search.location_details(fsq_search._key, location_id)
+                details_json_data = fs.location_details(fs._key, location_id)
                 if details_json_data is not None:
                     venue = details_json_data['response']['venue']
 
@@ -178,7 +170,7 @@ def process_and_store_data(data_json, csv_file):
     file_exists = os.path.exists(csv_file)
     mode = "a" if file_exists else "w"
     with open(csv_file, mode, newline="", encoding="utf-8") as csv_file:
-        fields = data_json[0].keys()  # Using keys from the first dictionary as headers
+        fields = data_json[0].keys()
         writer = csv.DictWriter(csv_file, fieldnames=fields)
 
         if not file_exists:
@@ -188,8 +180,8 @@ def process_and_store_data(data_json, csv_file):
             writer.writerow(row)
 
 if __name__ == "__main__":
-    search_data = fsq_search.read_json(fsq_search.json_search)
-    config_data = fsq_search.read_json(fsq_search.json_config)
+    search_data = fs.read_json(fs.json_search)
+    config_data = fs.read_json(fs.json_config)
 
     total_files = len(search_data)
     start_at, stop_at, n_calls, new_config = get_scraping_params(config_data, total_files)
@@ -199,11 +191,11 @@ if __name__ == "__main__":
 
     scrape_data(start_at, stop_at, n_calls, search_data)
 
-    data = read_csv(csv_details)
+    data = fs.read_csv(csv_details)
     n_search = len(data)
     new_config['reviews']['n_elements'] = n_search
 
-    fsq_search.write_json(new_config, fsq_search.json_config)
+    fs.write_json(new_config, fs.json_config)
 
     print("DONE!")
     print("Number of hotels' details added: " + str(n_calls))

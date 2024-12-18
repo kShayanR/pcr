@@ -1,21 +1,21 @@
 {
-    "max_n_calls": 5000,
-    "done_calls": 4561,
-    "first_call_at": "2024-08-30",
-    "last_call_at": "2024-09-10",
+    "max_n_calls": 10000,
+    "done_calls": 5694,
+    "first_call_at": "2024-11-15",
+    "last_call_at": "2024-11-27",
     "search": {
         "n_elements": 336,
         "last_starting_at": 200,
         "last_stopping_at": 336
     },
     "details": {
-        "n_elements": 2400,
-        "last_starting_at": 2300,
-        "last_stopping_at": 2400
+        "n_elements": 3650,
+        "last_starting_at": 3600,
+        "last_stopping_at": 3650
     },
     "reviews": {
-        "n_elements": 2400,
-        "last_starting_at": 2300,
-        "last_stopping_at": 2400
+        "n_elements": 3650,
+        "last_starting_at": 3600,
+        "last_stopping_at": 3650
     }
 }

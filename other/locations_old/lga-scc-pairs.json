@@ -1,0 +1,958 @@
+[
+    {
+        "lga": "Dubai",
+        "scc": "Jumeirah Beach Residence"
+    },
+    {
+        "lga": "Dubai",
+        "scc": "Dubai Marina"
+    },
+    {
+        "lga": "Dubai",
+        "scc": "Business Bay"
+    },
+    {
+        "lga": "Dubai",
+        "scc": "Deira"
+    },
+    {
+        "lga": "Dubai",
+        "scc": "Al Barsha"
+    },
+    {
+        "lga": "Dubai",
+        "scc": "Palm Jumeirah"
+    },
+    {
+        "lga": "Dubai",
+        "scc": "Jumeirah"
+    },
+    {
+        "lga": "Dubai",
+        "scc": "Al Seef"
+    },
+    {
+        "lga": "Dubai",
+        "scc": "Sheikh Zayed Road"
+    },
+    {
+        "lga": "Abu Dhabi",
+        "scc": "Yas Island"
+    },
+    {
+        "lga": "Abu Dhabi",
+        "scc": "Saadiyat Island"
+    },
+    {
+        "lga": "Abu Dhabi",
+        "scc": "Al Maryah Island"
+    },
+    {
+        "lga": "Abu Dhabi",
+        "scc": "Corniche Road"
+    },
+    {
+        "lga": "Abu Dhabi",
+        "scc": "Khalidiya"
+    },
+    {
+        "lga": "Abu Dhabi",
+        "scc": "Al Raha Beach"
+    },
+    {
+        "lga": "Abu Dhabi",
+        "scc": "Al Reem Island"
+    },
+    {
+        "lga": "Abu Dhabi",
+        "scc": "Al Bateen"
+    },
+    {
+        "lga": "Abu Dhabi",
+        "scc": "Al Zahiyah (Tourist Club Area)"
+    },
+    {
+        "lga": "Abu Dhabi",
+        "scc": "Al Maqta"
+    },
+    {
+        "lga": "Sharjah",
+        "scc": "Al Majaz"
+    },
+    {
+        "lga": "Sharjah",
+        "scc": "Al Qasba"
+    },
+    {
+        "lga": "Sharjah",
+        "scc": "Al Khan"
+    },
+    {
+        "lga": "Sharjah",
+        "scc": "Al Nahda"
+    },
+    {
+        "lga": "Sharjah",
+        "scc": "Al Mamzar"
+    },
+    {
+        "lga": "Sharjah",
+        "scc": "Al Taawun"
+    },
+    {
+        "lga": "Sharjah",
+        "scc": "Rolla"
+    },
+    {
+        "lga": "Sharjah",
+        "scc": "Muwailih Commercial"
+    },
+    {
+        "lga": "Sharjah",
+        "scc": "Sharjah Waterfront City"
+    },
+    {
+        "lga": "Sharjah",
+        "scc": "Al Layyah"
+    },
+    {
+        "lga": "Ajman",
+        "scc": "Ajman Corniche"
+    },
+    {
+        "lga": "Ajman",
+        "scc": "Al Rashidiya"
+    },
+    {
+        "lga": "Ajman",
+        "scc": "Al Jurf"
+    },
+    {
+        "lga": "Ajman",
+        "scc": "Al Hamidiya"
+    },
+    {
+        "lga": "Ajman",
+        "scc": "Al Nuaimiya"
+    },
+    {
+        "lga": "Ajman",
+        "scc": "Mushairef"
+    },
+    {
+        "lga": "Ajman",
+        "scc": "Al Rawda"
+    },
+    {
+        "lga": "Ajman",
+        "scc": "Al Mowaihat"
+    },
+    {
+        "lga": "Ajman",
+        "scc": "Ajman Marina"
+    },
+    {
+        "lga": "Ajman",
+        "scc": "Al Zahra"
+    },
+    {
+        "lga": "Umm Al Quwain",
+        "scc": "Al Ras"
+    },
+    {
+        "lga": "Umm Al Quwain",
+        "scc": "Al Salamah"
+    },
+    {
+        "lga": "Umm Al Quwain",
+        "scc": "Al Riqqah"
+    },
+    {
+        "lga": "Umm Al Quwain",
+        "scc": "Al Hawiyah"
+    },
+    {
+        "lga": "Umm Al Quwain",
+        "scc": "Al Dar Al Baida"
+    },
+    {
+        "lga": "Umm Al Quwain",
+        "scc": "Al Khor"
+    },
+    {
+        "lga": "Umm Al Quwain",
+        "scc": "Al Maidan"
+    },
+    {
+        "lga": "Umm Al Quwain",
+        "scc": "Al Riqqah Al Hamrah"
+    },
+    {
+        "lga": "Umm Al Quwain",
+        "scc": "Al Abraq"
+    },
+    {
+        "lga": "Umm Al Quwain",
+        "scc": "Al Shuwaib"
+    },
+    {
+        "lga": "Fujairah",
+        "scc": "Al Aqah"
+    },
+    {
+        "lga": "Fujairah",
+        "scc": "Dibba"
+    },
+    {
+        "lga": "Fujairah",
+        "scc": "Khor Fakkan"
+    },
+    {
+        "lga": "Fujairah",
+        "scc": "Fujairah Corniche"
+    },
+    {
+        "lga": "Fujairah",
+        "scc": "Al Faseel"
+    },
+    {
+        "lga": "Fujairah",
+        "scc": "Al Hayl"
+    },
+    {
+        "lga": "Fujairah",
+        "scc": "Al Bidiya"
+    },
+    {
+        "lga": "Fujairah",
+        "scc": "Sakamkam"
+    },
+    {
+        "lga": "Fujairah",
+        "scc": "Al Ghurfah"
+    },
+    {
+        "lga": "Fujairah",
+        "scc": "Al Hilal"
+    },
+    {
+        "lga": "Ras Al Khaimah",
+        "scc": "Al Hamra Village"
+    },
+    {
+        "lga": "Ras Al Khaimah",
+        "scc": "Al Marjan Island"
+    },
+    {
+        "lga": "Ras Al Khaimah",
+        "scc": "Mina Al Arab"
+    },
+    {
+        "lga": "Ras Al Khaimah",
+        "scc": "Al Nakheel"
+    },
+    {
+        "lga": "Ras Al Khaimah",
+        "scc": "Al Jazirah Al Hamra"
+    },
+    {
+        "lga": "Ras Al Khaimah",
+        "scc": "Al Rams"
+    },
+    {
+        "lga": "Ras Al Khaimah",
+        "scc": "Khuzam"
+    },
+    {
+        "lga": "Ras Al Khaimah",
+        "scc": "Dafan Al Khor"
+    },
+    {
+        "lga": "Ras Al Khaimah",
+        "scc": "Sidroh"
+    },
+    {
+        "lga": "Ras Al Khaimah",
+        "scc": "Al Mamourah"
+    },
+    {
+        "lga": "Doha",
+        "scc": "West Bay"
+    },
+    {
+        "lga": "Doha",
+        "scc": "The Pearl"
+    },
+    {
+        "lga": "Doha",
+        "scc": "Lusail"
+    },
+    {
+        "lga": "Doha",
+        "scc": "Al Sadd"
+    },
+    {
+        "lga": "Doha",
+        "scc": "Msheireb Downtown"
+    },
+    {
+        "lga": "Doha",
+        "scc": "Corniche"
+    },
+    {
+        "lga": "Doha",
+        "scc": "Katara Cultural Village"
+    },
+    {
+        "lga": "Doha",
+        "scc": "Al Waab"
+    },
+    {
+        "lga": "Doha",
+        "scc": "Souq Waqif"
+    },
+    {
+        "lga": "Doha",
+        "scc": "Al Thumama"
+    },
+    {
+        "lga": "Abu Samra",
+        "scc": "Abu Samra Town"
+    },
+    {
+        "lga": "Abu Samra",
+        "scc": "Al Mashaf"
+    },
+    {
+        "lga": "Abu Samra",
+        "scc": "Umm Bab"
+    },
+    {
+        "lga": "Abu Samra",
+        "scc": "Al Kharrara"
+    },
+    {
+        "lga": "Abu Samra",
+        "scc": "Al Shahaniya"
+    },
+    {
+        "lga": "Abu Samra",
+        "scc": "Al Rayyan"
+    },
+    {
+        "lga": "Abu Samra",
+        "scc": "Umm Qarn"
+    },
+    {
+        "lga": "Abu Samra",
+        "scc": "Dukhan"
+    },
+    {
+        "lga": "Abu Samra",
+        "scc": "Jariyan Al Batnah"
+    },
+    {
+        "lga": "Abu Samra",
+        "scc": "Al Jumailiya"
+    },
+    {
+        "lga": "Al Wakrah",
+        "scc": "Al Wakrah Corniche"
+    },
+    {
+        "lga": "Al Wakrah",
+        "scc": "Ezdan Oasis"
+    },
+    {
+        "lga": "Al Wakrah",
+        "scc": "Al Wukair"
+    },
+    {
+        "lga": "Al Wakrah",
+        "scc": "Barwa Village"
+    },
+    {
+        "lga": "Al Wakrah",
+        "scc": "Wakrah Souq"
+    },
+    {
+        "lga": "Al Wakrah",
+        "scc": "Al Wakrah South"
+    },
+    {
+        "lga": "Al Wakrah",
+        "scc": "Muaither"
+    },
+    {
+        "lga": "Al Wakrah",
+        "scc": "Al Mashaf"
+    },
+    {
+        "lga": "Al Wakrah",
+        "scc": "Al Janoub"
+    },
+    {
+        "lga": "Al Wakrah",
+        "scc": "Al Wakrah Heights"
+    },
+    {
+        "lga": "Al Khor",
+        "scc": "Al Khor Community"
+    },
+    {
+        "lga": "Al Khor",
+        "scc": "Simaisma"
+    },
+    {
+        "lga": "Al Khor",
+        "scc": "Al Dhakira"
+    },
+    {
+        "lga": "Al Khor",
+        "scc": "Al Thakhira"
+    },
+    {
+        "lga": "Al Khor",
+        "scc": "Al Khor Corniche"
+    },
+    {
+        "lga": "Al Khor",
+        "scc": "Al Ghuwariyah"
+    },
+    {
+        "lga": "Al Khor",
+        "scc": "Madinat Al Kaaban"
+    },
+    {
+        "lga": "Al Khor",
+        "scc": "Umm Birka"
+    },
+    {
+        "lga": "Al Khor",
+        "scc": "Al Rashida"
+    },
+    {
+        "lga": "Al Khor",
+        "scc": "Rawdat Al Hamama"
+    },
+    {
+        "lga": "Riyadh",
+        "scc": "Al Olaya"
+    },
+    {
+        "lga": "Riyadh",
+        "scc": "Al Malaz"
+    },
+    {
+        "lga": "Riyadh",
+        "scc": "Al Murabba"
+    },
+    {
+        "lga": "Riyadh",
+        "scc": "Al Yasmin"
+    },
+    {
+        "lga": "Riyadh",
+        "scc": "Diplomatic Quarter (DQ)"
+    },
+    {
+        "lga": "Riyadh",
+        "scc": "Al Sulaimaniah"
+    },
+    {
+        "lga": "Riyadh",
+        "scc": "Al Mohammadiyah"
+    },
+    {
+        "lga": "Riyadh",
+        "scc": "Al Nakheel"
+    },
+    {
+        "lga": "Riyadh",
+        "scc": "King Abdullah Financial District (KAFD)"
+    },
+    {
+        "lga": "Riyadh",
+        "scc": "Al Khuzama"
+    },
+    {
+        "lga": "Medina",
+        "scc": "Central Area (Haram)"
+    },
+    {
+        "lga": "Medina",
+        "scc": "Quba"
+    },
+    {
+        "lga": "Medina",
+        "scc": "Al Aqiq"
+    },
+    {
+        "lga": "Medina",
+        "scc": "Al Madinah Al Munawwarah"
+    },
+    {
+        "lga": "Medina",
+        "scc": "Al Ansar"
+    },
+    {
+        "lga": "Medina",
+        "scc": "Al Harra Al-Sharqiah"
+    },
+    {
+        "lga": "Medina",
+        "scc": "Al Uyun"
+    },
+    {
+        "lga": "Medina",
+        "scc": "Al Salam"
+    },
+    {
+        "lga": "Medina",
+        "scc": "Bani Muawiyah"
+    },
+    {
+        "lga": "Medina",
+        "scc": "Al Sukhair"
+    },
+    {
+        "lga": "Tabouk",
+        "scc": "Al Ulaya"
+    },
+    {
+        "lga": "Tabouk",
+        "scc": "Al Rawdah"
+    },
+    {
+        "lga": "Tabouk",
+        "scc": "Al Muruj"
+    },
+    {
+        "lga": "Tabouk",
+        "scc": "Al Faisaliah"
+    },
+    {
+        "lga": "Tabouk",
+        "scc": "Al Bada"
+    },
+    {
+        "lga": "Tabouk",
+        "scc": "Al Faisaliyah"
+    },
+    {
+        "lga": "Tabouk",
+        "scc": "Al Suwayrat"
+    },
+    {
+        "lga": "Tabouk",
+        "scc": "Al Shifa"
+    },
+    {
+        "lga": "Tabouk",
+        "scc": "Al Nahda"
+    },
+    {
+        "lga": "Tabouk",
+        "scc": "Al Andalus"
+    },
+    {
+        "lga": "Jazan",
+        "scc": "Al Rashid"
+    },
+    {
+        "lga": "Jazan",
+        "scc": "Al Shati"
+    },
+    {
+        "lga": "Jazan",
+        "scc": "Al Rawda"
+    },
+    {
+        "lga": "Jazan",
+        "scc": "Al Sabkha"
+    },
+    {
+        "lga": "Jazan",
+        "scc": "Corniche Area"
+    },
+    {
+        "lga": "Jazan",
+        "scc": "Al Nuzha"
+    },
+    {
+        "lga": "Jazan",
+        "scc": "Al Mithnab"
+    },
+    {
+        "lga": "Jazan",
+        "scc": "Al Shamiya"
+    },
+    {
+        "lga": "Jazan",
+        "scc": "Al Rukbah"
+    },
+    {
+        "lga": "Jazan",
+        "scc": "Al Safa"
+    },
+    {
+        "lga": "Salmiya",
+        "scc": "Salmiya Block 10"
+    },
+    {
+        "lga": "Salmiya",
+        "scc": "Marina Crescent"
+    },
+    {
+        "lga": "Salmiya",
+        "scc": "Al Bida'a"
+    },
+    {
+        "lga": "Salmiya",
+        "scc": "Shaab"
+    },
+    {
+        "lga": "Salmiya",
+        "scc": "Rumaithiya"
+    },
+    {
+        "lga": "Salmiya",
+        "scc": "Al Fanar"
+    },
+    {
+        "lga": "Salmiya",
+        "scc": "Al Balajat Street"
+    },
+    {
+        "lga": "Salmiya",
+        "scc": "Al Muthanna Complex"
+    },
+    {
+        "lga": "Salmiya",
+        "scc": "Hawalli"
+    },
+    {
+        "lga": "Salmiya",
+        "scc": "Salwa"
+    },
+    {
+        "lga": "Kuwait City",
+        "scc": "Sharq"
+    },
+    {
+        "lga": "Kuwait City",
+        "scc": "Dasman"
+    },
+    {
+        "lga": "Kuwait City",
+        "scc": "Al Qibla"
+    },
+    {
+        "lga": "Kuwait City",
+        "scc": "Mirqab"
+    },
+    {
+        "lga": "Kuwait City",
+        "scc": "Bneid Al-Gar"
+    },
+    {
+        "lga": "Kuwait City",
+        "scc": "Mubarak Al-Kabeer"
+    },
+    {
+        "lga": "Kuwait City",
+        "scc": "Al Shuwaikh"
+    },
+    {
+        "lga": "Kuwait City",
+        "scc": "Al Jahra"
+    },
+    {
+        "lga": "Kuwait City",
+        "scc": "Sabah Al Salem"
+    },
+    {
+        "lga": "Kuwait City",
+        "scc": "Fahaheel"
+    },
+    {
+        "lga": "Salwa",
+        "scc": "Salwa Block 7"
+    },
+    {
+        "lga": "Salwa",
+        "scc": "Block 11"
+    },
+    {
+        "lga": "Salwa",
+        "scc": "Block 12"
+    },
+    {
+        "lga": "Salwa",
+        "scc": "Block 9"
+    },
+    {
+        "lga": "Salwa",
+        "scc": "Salwa Park"
+    },
+    {
+        "lga": "Salwa",
+        "scc": "Mishref"
+    },
+    {
+        "lga": "Salwa",
+        "scc": "Bayan"
+    },
+    {
+        "lga": "Salwa",
+        "scc": "Jabriya"
+    },
+    {
+        "lga": "Salwa",
+        "scc": "Al Zahra"
+    },
+    {
+        "lga": "Salwa",
+        "scc": "Rumaithiya"
+    },
+    {
+        "lga": "Bahrain",
+        "scc": "Adliya"
+    },
+    {
+        "lga": "Bahrain",
+        "scc": "Juffair"
+    },
+    {
+        "lga": "Bahrain",
+        "scc": "Seef"
+    },
+    {
+        "lga": "Bahrain",
+        "scc": "Al Hoora"
+    },
+    {
+        "lga": "Bahrain",
+        "scc": "Diplomatic Area"
+    },
+    {
+        "lga": "Bahrain",
+        "scc": "Amwaj Islands"
+    },
+    {
+        "lga": "Bahrain",
+        "scc": "Reef Island"
+    },
+    {
+        "lga": "Bahrain",
+        "scc": "Al Fateh"
+    },
+    {
+        "lga": "Bahrain",
+        "scc": "Bahrain Bay"
+    },
+    {
+        "lga": "Bahrain",
+        "scc": "Al Ghuraifa"
+    },
+    {
+        "lga": "Muscat",
+        "scc": "Al Qurum"
+    },
+    {
+        "lga": "Muscat",
+        "scc": "Mutrah"
+    },
+    {
+        "lga": "Muscat",
+        "scc": "Ruwi"
+    },
+    {
+        "lga": "Muscat",
+        "scc": "Al Khuwair"
+    },
+    {
+        "lga": "Muscat",
+        "scc": "Al Mouj"
+    },
+    {
+        "lga": "Muscat",
+        "scc": "Al Azaiba"
+    },
+    {
+        "lga": "Muscat",
+        "scc": "Shatti Al Qurum"
+    },
+    {
+        "lga": "Muscat",
+        "scc": "Madinat Sultan Qaboos"
+    },
+    {
+        "lga": "Muscat",
+        "scc": "Al Ghubra"
+    },
+    {
+        "lga": "Muscat",
+        "scc": "Seeb"
+    },
+    {
+        "lga": "Salalah",
+        "scc": "Al Haffa"
+    },
+    {
+        "lga": "Salalah",
+        "scc": "Dahariz"
+    },
+    {
+        "lga": "Salalah",
+        "scc": "Al Saadah"
+    },
+    {
+        "lga": "Salalah",
+        "scc": "Ittin"
+    },
+    {
+        "lga": "Salalah",
+        "scc": "Al Wadi"
+    },
+    {
+        "lga": "Salalah",
+        "scc": "Awqad"
+    },
+    {
+        "lga": "Salalah",
+        "scc": "Salalah Gardens"
+    },
+    {
+        "lga": "Salalah",
+        "scc": "Al Murooj"
+    },
+    {
+        "lga": "Salalah",
+        "scc": "Al Dahar"
+    },
+    {
+        "lga": "Salalah",
+        "scc": "Al Hafa Souq"
+    },
+    {
+        "lga": "Khasab",
+        "scc": "Khasab Town"
+    },
+    {
+        "lga": "Khasab",
+        "scc": "Al Harf"
+    },
+    {
+        "lga": "Khasab",
+        "scc": "Al Tibat"
+    },
+    {
+        "lga": "Khasab",
+        "scc": "Al Dhahirah"
+    },
+    {
+        "lga": "Khasab",
+        "scc": "Tawi"
+    },
+    {
+        "lga": "Khasab",
+        "scc": "Al Qadayyah"
+    },
+    {
+        "lga": "Khasab",
+        "scc": "Seeb Al Bahr"
+    },
+    {
+        "lga": "Khasab",
+        "scc": "Al Dhiyafa"
+    },
+    {
+        "lga": "Khasab",
+        "scc": "Bukha"
+    },
+    {
+        "lga": "Khasab",
+        "scc": "Al Maqta"
+    },
+    {
+        "lga": "Al Sharqiyah",
+        "scc": "Sur"
+    },
+    {
+        "lga": "Al Sharqiyah",
+        "scc": "Ibra"
+    },
+    {
+        "lga": "Al Sharqiyah",
+        "scc": "Al Mudhaibi"
+    },
+    {
+        "lga": "Al Sharqiyah",
+        "scc": "Jalan Bani Bu Ali"
+    },
+    {
+        "lga": "Al Sharqiyah",
+        "scc": "Jalan Bani Bu Hassan"
+    },
+    {
+        "lga": "Al Sharqiyah",
+        "scc": "Al Kamil Wal Wafi"
+    },
+    {
+        "lga": "Al Sharqiyah",
+        "scc": "Wadi Bani Khalid"
+    },
+    {
+        "lga": "Al Sharqiyah",
+        "scc": "Masirah"
+    },
+    {
+        "lga": "Al Sharqiyah",
+        "scc": "Al Ashkharah"
+    },
+    {
+        "lga": "Al Sharqiyah",
+        "scc": "Bidiya"
+    },
+    {
+        "lga": "Buraimi",
+        "scc": "Al Buraimi Town"
+    },
+    {
+        "lga": "Buraimi",
+        "scc": "Mahdah"
+    },
+    {
+        "lga": "Buraimi",
+        "scc": "Al Sinaina"
+    },
+    {
+        "lga": "Buraimi",
+        "scc": "Al Rawdah"
+    },
+    {
+        "lga": "Buraimi",
+        "scc": "Sa\u00e2\u20ac\u2122ara"
+    },
+    {
+        "lga": "Buraimi",
+        "scc": "Al Khadra"
+    },
+    {
+        "lga": "Buraimi",
+        "scc": "Hail"
+    },
+    {
+        "lga": "Buraimi",
+        "scc": "Al Haarah"
+    },
+    {
+        "lga": "Buraimi",
+        "scc": "Al Halhal"
+    },
+    {
+        "lga": "Buraimi",
+        "scc": "Al Fulaij"
+    }
+]
