@@ -108,8 +108,8 @@ This file includes user reviews for each of the specified locations in the `deta
    - **rating**: The score (typically 1-5 stars) given by the user (This feature is only specified for the reviews which are gathered from TripAdvisor).
    - **agree_count**: Formerly known as `helpful_votes`, it captures the number of times other users found the review helpful.
    - **title**: The title of the User's review.
-   - **text**: User's review.
-   - **sentiment**: Indicates the tone of the review (e.g., "positive", "negative"). For reviews retrieved from **Foursquare**, where sentiment was missing, it was automatically generated using **DistilBERT** from HuggingFace to predict the sentiment based on the review text.
+   - **text**: User's comment.
+   - **sentiment**: Indicates the tone of the review (e.g., "positive", "negative"). (Currently not available for **Foursquare** reviews)
 
 3. **Trip and Visit Details:**
    - **visit_type**: Formerly known as `trip_type`, it describes the nature of the user’s visit (e.g., "business", "family", "Couple", "Solo").
